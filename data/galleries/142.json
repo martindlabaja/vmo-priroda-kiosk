@@ -1,0 +1,24 @@
+{
+  "id": 142,
+  "name": "Vrabec polní",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 251,
+      "filename": "251.jpg",
+      "path": "251.jpg",
+      "caption": "Vrabec polní",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 252,
+      "filename": "252.jpg",
+      "path": "252.jpg",
+      "caption": "Vrabec polní",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

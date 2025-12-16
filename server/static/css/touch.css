@@ -1,0 +1,218 @@
+/**
+ * Priroda Kiosk - Touch-Specific Styles
+ * Optimizations for touchscreen interaction
+ */
+
+/* Disable all selection and callouts */
+*, *::before, *::after {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Allow text selection only in content areas if needed */
+.page-content p,
+.page-content li,
+.gallery-caption {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+/* Ensure all interactive elements meet touch target size */
+button,
+a[href],
+.tile,
+.sidebar-menu-item,
+.category-tab,
+.gallery-nav,
+.nav-btn,
+.lang-btn,
+.home-button {
+    min-width: var(--touch-target-min);
+    min-height: var(--touch-target-min);
+    touch-action: manipulation;
+}
+
+/* Touch feedback - visual response on press */
+button:active,
+a:active,
+.tile:active,
+.sidebar-menu-item:active,
+.category-tab:active {
+    opacity: 0.85;
+    transform: scale(0.98);
+    transition: transform 0.1s ease, opacity 0.1s ease;
+}
+
+/* Restore scale after press */
+button,
+a,
+.tile,
+.sidebar-menu-item,
+.category-tab {
+    transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+/* Disable hover effects on touch devices */
+@media (hover: none) and (pointer: coarse) {
+    button:hover,
+    a:hover,
+    .tile:hover,
+    .sidebar-menu-item:hover,
+    .category-tab:hover,
+    .gallery-nav:hover,
+    .nav-btn:hover {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+/* Kiosk mode - hide cursor */
+body.kiosk-mode {
+    cursor: none;
+}
+
+body.kiosk-mode * {
+    cursor: none !important;
+}
+
+/* Debug mode - force cursor visible (overrides kiosk-mode) */
+body.debug-mode,
+body.debug-mode * {
+    cursor: auto !important;
+}
+
+/* Prevent pull-to-refresh on mobile browsers */
+body {
+    overscroll-behavior-y: contain;
+}
+
+/* Prevent pinch zoom */
+html {
+    touch-action: pan-x pan-y;
+}
+
+/* Smooth momentum scrolling for scrollable areas */
+.scrollable,
+.page-content,
+.page-sidebar,
+.sidebar-menu {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+}
+
+/* Larger scrollbar thumb for touch */
+.scrollable::-webkit-scrollbar {
+    width: 16px;
+}
+
+.scrollable::-webkit-scrollbar-thumb {
+    border: 4px solid transparent;
+    background-clip: padding-box;
+    min-height: 60px;
+}
+
+/* Touch scroll indicators */
+.scroll-hint {
+    position: absolute;
+    bottom: var(--spacing-md);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: var(--spacing-sm) var(--spacing-md);
+    background: var(--color-overlay);
+    color: var(--color-text-light);
+    border-radius: var(--radius-md);
+    font-size: var(--font-size-sm);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity var(--transition-normal);
+}
+
+.scroll-hint.visible {
+    opacity: 1;
+}
+
+/* Swipe indicator for galleries */
+.swipe-hint {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: var(--spacing-md);
+    background: var(--color-overlay);
+    color: var(--color-text-light);
+    border-radius: var(--radius-lg);
+    font-size: var(--font-size-sm);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity var(--transition-fast);
+}
+
+.swipe-hint.left {
+    left: var(--spacing-lg);
+}
+
+.swipe-hint.right {
+    right: var(--spacing-lg);
+}
+
+.swipe-hint.visible {
+    opacity: 0.8;
+}
+
+/* Focus states for accessibility (keyboard navigation fallback) */
+button:focus-visible,
+a:focus-visible,
+.tile:focus-visible {
+    outline: 3px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
+/* Prevent accidental double-tap zoom */
+* {
+    touch-action: manipulation;
+}
+
+/* Larger gallery navigation buttons for easy touch */
+.gallery-nav,
+.nav-btn {
+    min-width: var(--touch-target-comfortable);
+    min-height: var(--touch-target-comfortable);
+}
+
+/* Extended touch area using pseudo-elements */
+.sidebar-menu-item::after,
+.category-tab::after {
+    content: '';
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    bottom: -8px;
+    left: -8px;
+}
+
+.sidebar-menu-item,
+.category-tab {
+    position: relative;
+}
+
+/* Ensure sufficient spacing between touch targets */
+.sidebar-menu-item + .sidebar-menu-item,
+.category-tab + .category-tab {
+    margin-left: var(--spacing-sm);
+}
+
+/* Gallery swipe area */
+.gallery-main {
+    touch-action: pan-y;
+}
+
+/* Tile grid touch scrolling */
+.tile-grid-container {
+    touch-action: pan-y;
+    overflow-y: auto;
+}

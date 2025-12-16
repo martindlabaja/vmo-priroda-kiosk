@@ -1,0 +1,40 @@
+{
+  "id": 515,
+  "name": "Golden algae",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1562,
+      "filename": "1562.jpg",
+      "path": "1562.jpg",
+      "caption": "Synura ranks among golden algae with silicaceous scales. The cells are covered with scales which overlap like roof tiles. It is a colonial flagellate occurring in acid, clean waters. Golden coloration is caused by an accessory pigment flucoxanthin. Photo: Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 0
+    },
+    {
+      "id": 1563,
+      "filename": "1563.jpg",
+      "path": "1563.jpg",
+      "caption": "Individually living flagellate with silicaceous scales, which are terminated by a prickle, the individual thus looks „hairy“ on the surface. Photo: Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1564,
+      "filename": "1564.jpg",
+      "path": "1564.jpg",
+      "caption": "Golden algae of the genus Dinobryon are flagellates, living in chitin cup-shaped cases, which form bush-like colonies. At the end of the season, vegetative individuals unite and form cysts. This type of primitive sexual reproduction is called hologamy. Photo: Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1565,
+      "filename": "1565.jpg",
+      "path": "1565.jpg",
+      "caption": "At the end of the season, vegetative individuals unite and form a cyst. This type of primitive sexual reproduction is called hologamy. The cyst is bottle-shaped and is reinforced with silica. The neck is closed with an organic plug. Photo: Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 3
+    }
+  ]
+}

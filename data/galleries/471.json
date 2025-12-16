@@ -1,0 +1,48 @@
+{
+  "id": 471,
+  "name": "Nýznerov",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1151,
+      "filename": "1151.jpg",
+      "path": "1151.jpg",
+      "caption": "Waterfall on the Stříbrný brook <br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1152,
+      "filename": "1152.jpg",
+      "path": "1152.jpg",
+      "caption": "Digging in the slag heap of a mining trial pit<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1153,
+      "filename": "1153.jpg",
+      "path": "1153.jpg",
+      "caption": "Detail of a digging with findings of secondary minerals<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1154,
+      "filename": "1154.jpg",
+      "path": "1154.jpg",
+      "caption": "Caved-in opening part of a drift with a slag heap<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1155,
+      "filename": "1155.jpg",
+      "path": "1155.jpg",
+      "caption": "Specialized research of a drift by a geologist<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

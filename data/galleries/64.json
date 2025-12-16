@@ -1,0 +1,48 @@
+{
+  "id": 64,
+  "name": "Zlatobýl kanadský",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 278,
+      "filename": "278.jpg",
+      "path": "278.jpg",
+      "caption": "Zlatobýl kanadský – statná, až 250 cm vysoká rostlina rostoucí na člověkem ovlivněných stanovištích",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 279,
+      "filename": "279.jpg",
+      "path": "279.jpg",
+      "caption": "Zlatobýl kanadský – žluté květy jsou uspořádány v jednostranné latě",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 280,
+      "filename": "280.jpg",
+      "path": "280.jpg",
+      "caption": "Zlatobýl kanadský – detail květů",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 281,
+      "filename": "281.jpg",
+      "path": "281.jpg",
+      "caption": "Zlatobýl kanadský – plody jsou drobné nažky s chmýrem snadno se šířící větrem",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 282,
+      "filename": "282.jpg",
+      "path": "282.jpg",
+      "caption": "Zlatobýl kanadský – detail plodů",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

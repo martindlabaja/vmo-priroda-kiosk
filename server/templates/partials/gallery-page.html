@@ -1,0 +1,17 @@
+<div class="gallery-page-container">
+    <!-- Gallery Title -->
+    <header class="gallery-page-header">
+        <h1>{{ content.title }}</h1>
+    </header>
+
+    <!-- Full-screen Gallery Viewer -->
+    <div class="gallery-page-main">
+        {% if gallery %}
+        {% include "partials/gallery-viewer.html" %}
+        {% else %}
+        <div class="gallery-empty">
+            <p>Galerie nebyla nalezena</p>
+        </div>
+        {% endif %}
+    </div>
+</div>

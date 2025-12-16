@@ -1,0 +1,32 @@
+{
+  "id": 457,
+  "name": "Silver Birch",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1085,
+      "filename": "1085.jpg",
+      "path": "1085.jpg",
+      "caption": "Silver Birch – male catkins are 3-6 cm long, pendant, light yellow ",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1086,
+      "filename": "1086.jpg",
+      "path": "1086.jpg",
+      "caption": "Silver Birch – female catkins are light yellow-green with carmine red stigmas, erect or pendant ",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1087,
+      "filename": "1087.jpg",
+      "path": "1087.jpg",
+      "caption": "Silver Birch – the bark is smooth, silver white, with individual grey-white transverse stripes – lenticels ",
+      "author": "",
+      "order": 1
+    }
+  ]
+}

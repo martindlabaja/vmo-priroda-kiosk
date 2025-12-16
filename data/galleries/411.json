@@ -1,0 +1,24 @@
+{
+  "id": 411,
+  "name": "Staghorn Sumac",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 948,
+      "filename": "948.jpg",
+      "path": "948.jpg",
+      "caption": "Staghorn Sumac – yellow-green male inflorescence",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 949,
+      "filename": "949.jpg",
+      "path": "949.jpg",
+      "caption": "Staghorn Sumac – red female inflorescence",
+      "author": "",
+      "order": 2
+    }
+  ]
+}

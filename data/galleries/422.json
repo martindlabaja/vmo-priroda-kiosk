@@ -1,0 +1,24 @@
+{
+  "id": 422,
+  "name": "Tansy",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 971,
+      "filename": "971.jpg",
+      "path": "971.jpg",
+      "caption": "Tansy – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 972,
+      "filename": "972.jpg",
+      "path": "972.jpg",
+      "caption": "Musk beetles (Aromia moschata) mating on tansy inflorescence",
+      "author": "",
+      "order": 2
+    }
+  ]
+}

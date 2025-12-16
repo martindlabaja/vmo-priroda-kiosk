@@ -1,0 +1,80 @@
+{
+  "id": 487,
+  "name": "Malá Morávka",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1319,
+      "filename": "1319.jpg",
+      "path": "1319.jpg",
+      "caption": "Open iron stope near Jelení cesta<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1320,
+      "filename": "1320.jpg",
+      "path": "1320.jpg",
+      "caption": "View of the stope near Jelení cesta from the surface<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1321,
+      "filename": "1321.jpg",
+      "path": "1321.jpg",
+      "caption": "View of the terrain from the stope near Jelení cesta<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1322,
+      "filename": "1322.jpg",
+      "path": "1322.jpg",
+      "caption": "Stope near Jelení cesta – rock window<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1323,
+      "filename": "1323.jpg",
+      "path": "1323.jpg",
+      "caption": "Rock filling in the stope<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1324,
+      "filename": "1324.jpg",
+      "path": "1324.jpg",
+      "caption": "View of the subterranean part of the iron mine<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1325,
+      "filename": "1325.jpg",
+      "path": "1325.jpg",
+      "caption": "Signs carved into the stope wall<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1326,
+      "filename": "1326.jpg",
+      "path": "1326.jpg",
+      "caption": "Securing of pits and air shafts with bars<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1327,
+      "filename": "1327.jpg",
+      "path": "1327.jpg",
+      "caption": "Iron ore – slightly granular magnetite with a smaller share of hematite (not visible in the photograph), dark grey-green chlorite and white quartz-carbonate veins<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

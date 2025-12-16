@@ -1,0 +1,24 @@
+{
+  "id": 234,
+  "name": "Tetřívek obecný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 657,
+      "filename": "657.jpg",
+      "path": "657.jpg",
+      "caption": "Tetřívek obecný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 658,
+      "filename": "658.jpg",
+      "path": "658.jpg",
+      "caption": "Tetřívek obecný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

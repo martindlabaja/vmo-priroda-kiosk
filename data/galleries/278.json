@@ -1,0 +1,32 @@
+{
+  "id": 278,
+  "name": "Large Copper Butterfly ",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 722,
+      "filename": "722.jpg",
+      "path": "722.jpg",
+      "caption": "Large Copper Butterfly - male",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 723,
+      "filename": "723.jpg",
+      "path": "723.jpg",
+      "caption": "Large Copper Butterfly - female",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 724,
+      "filename": "724.jpg",
+      "path": "724.jpg",
+      "caption": "Large Copper Butterfly - underside of the wings",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

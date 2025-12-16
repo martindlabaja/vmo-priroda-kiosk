@@ -1,0 +1,64 @@
+{
+  "id": 158,
+  "name": "Petrov nad Desnou – Granátovka",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 389,
+      "filename": "389.jpg",
+      "path": "389.jpg",
+      "caption": "Lokalita je ve vysokém smrkovém lese pod obzorem v levé části fotografie<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 390,
+      "filename": "390.jpg",
+      "path": "390.jpg",
+      "caption": "Pod lokalitou vystupují tělesa kvarcitů – naleziště Weissenstein <br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 391,
+      "filename": "391.jpg",
+      "path": "391.jpg",
+      "caption": "Lokalita Granátovka, v suti jsou balvany a ve výchozech polohy svoru s krystaly almandinu až 30 mm (tzv. staré sběry<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 392,
+      "filename": "392.jpg",
+      "path": "392.jpg",
+      "caption": "Pohled na výkopy sběratelů, v suti jsou patrné balvany kvarcitů<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 393,
+      "filename": "393.jpg",
+      "path": "393.jpg",
+      "caption": "Úlomky svorů jsou menší – snahou sběratelů bylo nalézt vzorky s almandinem<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 394,
+      "filename": "394.jpg",
+      "path": "394.jpg",
+      "caption": "Svor s krystaly almandinu do 18 mm, Granátovka<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 395,
+      "filename": "395.jpg",
+      "path": "395.jpg",
+      "caption": "Krystal rutilu do 13 mm v křemenné žilce, které se vyskytují v kvarcitech lokality Weissenstein<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 173,
+  "name": "Jelení kameny",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 476,
+      "filename": "476.jpg",
+      "path": "476.jpg",
+      "caption": "Jelení kameny tvoří skalkovité výchozy stolového typu z výrazně zbřidličnatělých  subhorizontálně uložených migmatitizovaných biotitických rul.  <br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 477,
+      "filename": "477.jpg",
+      "path": "477.jpg",
+      "caption": "Jelení kameny – nejvyšší bod skalního útvaru s vrcholovým skalním srubem budovaným biotitickými migmatity Desenské klenby. <br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 478,
+      "filename": "478.jpg",
+      "path": "478.jpg",
+      "caption": "Pohled ze skalní hrany Jeleních kamenů směrem na západ na masív Pradědu. <br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

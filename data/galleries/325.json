@@ -1,0 +1,32 @@
+{
+  "id": 325,
+  "name": "Brusnice brusinka",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 822,
+      "filename": "822.jpg",
+      "path": "822.jpg",
+      "caption": "Brusnice brusinka – drobný, stálezelený keřík rostoucí na horských loukách, vřesovištích a rašeliništích",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 823,
+      "filename": "823.jpg",
+      "path": "823.jpg",
+      "caption": "Brusnice brusinka – květy jsou bílé s růžovým nádechem uspořádané v koncových hroznech",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 824,
+      "filename": "824.jpg",
+      "path": "824.jpg",
+      "caption": "Brusnice brusinka – plody jsou červené, jedlé bobule",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

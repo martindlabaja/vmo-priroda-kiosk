@@ -1,0 +1,27 @@
+[Unit]
+Description=Priroda Kiosk Flask Application
+Documentation=https://github.com/vmo/priroda-kiosk
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+WorkingDirectory=/home/pi/priroda-kiosk
+Environment="PATH=/home/pi/priroda-kiosk/venv/bin:/usr/local/bin:/usr/bin:/bin"
+Environment="FLASK_ENV=production"
+ExecStart=/home/pi/priroda-kiosk/venv/bin/gunicorn \
+    --bind 127.0.0.1:5000 \
+    --workers 2 \
+    --threads 2 \
+    --timeout 30 \
+    --access-logfile /var/log/priroda-kiosk/access.log \
+    --error-logfile /var/log/priroda-kiosk/error.log \
+    server.app:app
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

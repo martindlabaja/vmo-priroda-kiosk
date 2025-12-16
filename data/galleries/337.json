@@ -1,0 +1,32 @@
+{
+  "id": 337,
+  "name": "Domestic Duck",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 844,
+      "filename": "844.jpg",
+      "path": "844.jpg",
+      "caption": "Domestic Duck",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 845,
+      "filename": "845.jpg",
+      "path": "845.jpg",
+      "caption": "Domestic Duck",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 846,
+      "filename": "846.jpg",
+      "path": "846.jpg",
+      "caption": "Domestic Duck",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

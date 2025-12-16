@@ -1,0 +1,29 @@
+<nav class="breadcrumb" aria-label="Breadcrumb">
+    <!-- Home link -->
+    <div class="breadcrumb-item">
+        <a href="/"
+           hx-get="/"
+           hx-target="#main-content"
+           hx-swap="innerHTML show:window:top"
+           hx-push-url="true">
+            Domů
+        </a>
+    </div>
+
+    {% for crumb in breadcrumbs %}
+    <span class="breadcrumb-separator">/</span>
+    <div class="breadcrumb-item">
+        {% if crumb.url %}
+        <a href="/{{ crumb.url }}"
+           hx-get="/{{ crumb.url }}"
+           hx-target="#main-content"
+           hx-swap="innerHTML show:window:top"
+           hx-push-url="true">
+            {{ crumb.name }}
+        </a>
+        {% else %}
+        <span class="breadcrumb-current">{{ crumb.name }}</span>
+        {% endif %}
+    </div>
+    {% endfor %}
+</nav>

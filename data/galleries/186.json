@@ -1,0 +1,40 @@
+{
+  "id": 186,
+  "name": "Čelechovice na Hané – Státní lom",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 557,
+      "filename": "557.jpg",
+      "path": "557.jpg",
+      "caption": "Čelechovice na Hané – Státní lom",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 558,
+      "filename": "558.jpg",
+      "path": "558.jpg",
+      "caption": "Čelechovice na Hané – Státní lom",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 559,
+      "filename": "559.jpg",
+      "path": "559.jpg",
+      "caption": "Amfiporový vápenec",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 560,
+      "filename": "560.jpg",
+      "path": "560.jpg",
+      "caption": "Stonky lilijic",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

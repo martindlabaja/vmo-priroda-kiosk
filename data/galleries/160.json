@@ -1,0 +1,80 @@
+{
+  "id": 160,
+  "name": "Plinkout – Na šachtách",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 402,
+      "filename": "402.jpg",
+      "path": "402.jpg",
+      "caption": "Mlází – těžební prostor s četnými pozůstatky po těžbě železné rudy<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 403,
+      "filename": "403.jpg",
+      "path": "403.jpg",
+      "caption": "Šachtice vzájemně vzdálené od sebe jen několik metrů svědčí o starém založení dolů<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 404,
+      "filename": "404.jpg",
+      "path": "404.jpg",
+      "caption": "Další šachtice v těžebním poli<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 405,
+      "filename": "405.jpg",
+      "path": "405.jpg",
+      "caption": "Dle rozměru pozůstatku důlního díla se jedná o šachtu s hlubším dosahem<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 406,
+      "filename": "406.jpg",
+      "path": "406.jpg",
+      "caption": "Relikty zasucených povrchových dobývek znepřístupněných lesním porostem<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 407,
+      "filename": "407.jpg",
+      "path": "407.jpg",
+      "caption": "Haldy v okolí šachtic a dobývek<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 408,
+      "filename": "408.jpg",
+      "path": "408.jpg",
+      "caption": "Zasucené ústí a úvodní část štoly Vyhlídka 2<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 409,
+      "filename": "409.jpg",
+      "path": "409.jpg",
+      "caption": "Aktivní propadání v zavalené šachtici<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 410,
+      "filename": "410.jpg",
+      "path": "410.jpg",
+      "caption": "Aktivní zával v dobývce situované v blízkosti povrchu<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

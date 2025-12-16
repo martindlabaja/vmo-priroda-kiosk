@@ -1,0 +1,112 @@
+{
+  "id": 381,
+  "name": "Česká Ves – Zlatý chlum",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1439,
+      "filename": "1439.jpg",
+      "path": "1439.jpg",
+      "caption": "Horní štola ložiska Zlatý chlum – panorama<br />foto P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1440,
+      "filename": "1440.jpg",
+      "path": "1440.jpg",
+      "caption": "Detail horní štoly; u horního okraje fotografie uprostřed je mezi skalními stěnami patrný pilíř, který zabraňuje sesutí převislé skály do chodby<br />foto P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1441,
+      "filename": "1441.jpg",
+      "path": "1441.jpg",
+      "caption": "Skalní pilíř (tvořený křemennou žílou) vynikne při nasvícení převislé skály<br />foto P. Rozsíval",
+      "author": "",
+      "order": 3
+    },
+    {
+      "id": 1442,
+      "filename": "1442.jpg",
+      "path": "1442.jpg",
+      "caption": "Dolní štola s vletovou mříží pro netopýry, Zlatý chlum<br />foto P. Rozsíval",
+      "author": "",
+      "order": 4
+    },
+    {
+      "id": 1443,
+      "filename": "1443.jpg",
+      "path": "1443.jpg",
+      "caption": "Zavalená šachta nad horní štolou se zastavením naučné stezky<br />foto P. Novotný",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1444,
+      "filename": "1444.jpg",
+      "path": "1444.jpg",
+      "caption": "Haldy šachtic a štolek na těžbu zlata, z nichž některé pocházejí už ze 12. století, Zlatý chlum<br />foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1445,
+      "filename": "1445.jpg",
+      "path": "1445.jpg",
+      "caption": "Nález hornického želízka při průzkumu haldy, Zlatý chlum<br />foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1446,
+      "filename": "1446.jpg",
+      "path": "1446.jpg",
+      "caption": "Vyhlídka Čertovy kameny, v jejímž okolí se nacházejí svory s krystaly granátů<br />foto P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1447,
+      "filename": "1447.jpg",
+      "path": "1447.jpg",
+      "caption": "Žlutý krystal zlata (1,5 mm) a šedý krystal hedleyitu (1,5 mm) v křemeni, Zlatý chlum<br />foto J. Sejkora",
+      "author": "",
+      "order": 8
+    },
+    {
+      "id": 1448,
+      "filename": "1448.jpg",
+      "path": "1448.jpg",
+      "caption": "Krystal zlata (2 mm) v křemeni, Zlatý chlum<br />foto M. Janata",
+      "author": "",
+      "order": 9
+    },
+    {
+      "id": 1449,
+      "filename": "1449.jpg",
+      "path": "1449.jpg",
+      "caption": "Šedé tence tabulkovité krystaly tetradymitu (největší 3 x 1,5 mm), Zlatý chlum<br />foto J. Král",
+      "author": "",
+      "order": 10
+    },
+    {
+      "id": 1450,
+      "filename": "1450.jpg",
+      "path": "1450.jpg",
+      "caption": "Krystaly almandinu (tvar rhombododekaedr) do 18 mm ve svoru, Zlatý chlum<br />foto P. Novotný",
+      "author": "",
+      "order": 11
+    },
+    {
+      "id": 1451,
+      "filename": "1451.jpg",
+      "path": "1451.jpg",
+      "caption": "Krystaly almandinu (tvar tetragontrioktaedr) do 10 mm ve svoru, Zlatý chlum<br />foto P. Novotný",
+      "author": "",
+      "order": 12
+    }
+  ]
+}

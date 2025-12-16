@@ -1,0 +1,40 @@
+{
+  "id": 427,
+  "name": "Silver Thistle",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 989,
+      "filename": "989.jpg",
+      "path": "989.jpg",
+      "caption": "Silver Thistle – in the middle of the leaf rosette, there is an anthodium inflorescence, reaching up to 6 cm in diameter",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 990,
+      "filename": "990.jpg",
+      "path": "990.jpg",
+      "caption": "Silver Thistle – anthodia are bordered with scarious, glossy, yellowish bracts",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 991,
+      "filename": "991.jpg",
+      "path": "991.jpg",
+      "caption": "Silver Thistle – bracts bordering the anthodium close in wet weather",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 992,
+      "filename": "992.jpg",
+      "path": "992.jpg",
+      "caption": "Silver Thistle – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

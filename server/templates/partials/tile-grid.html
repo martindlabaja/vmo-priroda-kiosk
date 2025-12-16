@@ -1,0 +1,47 @@
+<div class="tile-grid-container">
+    <div class="tile-grid">
+        {% for item in items %}
+        <a href="/{{ item.url }}"
+           hx-get="/{{ item.url }}"
+           hx-target="#main-content"
+           hx-swap="innerHTML show:window:top"
+           hx-push-url="true"
+           class="tile">
+            <img src="/images/tiles/{{ item.id }}.jpg"
+                 alt="{{ item.name }}"
+                 loading="lazy"
+                 onerror="this.style.display='none'">
+            <span class="tile-label">{{ item.name }}</span>
+        </a>
+        {% endfor %}
+    </div>
+
+    <!-- Pagination -->
+    {% if total_pages > 1 %}
+    <div class="tile-pagination">
+        <button type="button"
+                class="nav-btn nav-prev"
+                hx-get="/partials/tiles?parent={{ parent_url }}&page={{ page - 1 }}"
+                hx-target=".tile-grid-container"
+                hx-swap="outerHTML"
+                {% if not has_prev %}disabled{% endif %}>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30">
+                <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+            </svg>
+        </button>
+
+        <span class="page-indicator">{{ page }}/{{ total_pages }}</span>
+
+        <button type="button"
+                class="nav-btn nav-next"
+                hx-get="/partials/tiles?parent={{ parent_url }}&page={{ page + 1 }}"
+                hx-target=".tile-grid-container"
+                hx-swap="outerHTML"
+                {% if not has_more %}disabled{% endif %}>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30">
+                <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+            </svg>
+        </button>
+    </div>
+    {% endif %}
+</div>

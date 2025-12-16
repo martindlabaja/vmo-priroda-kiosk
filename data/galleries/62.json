@@ -1,0 +1,48 @@
+{
+  "id": 62,
+  "name": "Lnice květel",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 273,
+      "filename": "273.jpg",
+      "path": "273.jpg",
+      "caption": "Lnice květel – rostlina s čárkovitými listy a vonnými, žlutými květy",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 274,
+      "filename": "274.jpg",
+      "path": "274.jpg",
+      "caption": "Lnice květel – květy jsou uspořádány v koncových, hustých, až 50květých hroznech",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 275,
+      "filename": "275.jpg",
+      "path": "275.jpg",
+      "caption": "Lnice květel – sírově žluté květy mají na spodním pysku sytě oranžovou skvrn, zakončeny jsou až 1 cm dlouhou ostruhou",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 276,
+      "filename": "276.jpg",
+      "path": "276.jpg",
+      "caption": "Lnice květel – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 277,
+      "filename": "277.jpg",
+      "path": "277.jpg",
+      "caption": "Lnice květel – kolorovaná kresba, autor Josef Weiser",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

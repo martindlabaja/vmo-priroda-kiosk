@@ -1,0 +1,32 @@
+{
+  "id": 203,
+  "name": "Bobr evropský",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 598,
+      "filename": "598.jpg",
+      "path": "598.jpg",
+      "caption": "Bobr evropský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 599,
+      "filename": "599.jpg",
+      "path": "599.jpg",
+      "caption": "Bobr evropský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 600,
+      "filename": "600.jpg",
+      "path": "600.jpg",
+      "caption": "Bobr evropský - ohryzaný strom",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}{{ content.title }}{% endblock %}
+
+{% block breadcrumb %}
+{% include "partials/breadcrumb.html" %}
+{% endblock %}
+
+{% block content %}
+{% if content.type == 'tile-section' %}
+    {% include "partials/tile-section.html" %}
+{% elif content.type == 'gallery' %}
+    {% include "partials/gallery-page.html" %}
+{% else %}
+    {% include "partials/page-content.html" %}
+{% endif %}
+{% endblock %}

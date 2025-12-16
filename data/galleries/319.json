@@ -1,0 +1,32 @@
+{
+  "id": 319,
+  "name": "Ostřice rusá",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 798,
+      "filename": "798.jpg",
+      "path": "798.jpg",
+      "caption": "Ostřice rusá – vytrvalá, trsnatá, žlutozelená bylina rostoucí na rašelinných loukách",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 799,
+      "filename": "799.jpg",
+      "path": "799.jpg",
+      "caption": "Ostřice rusá – květenství je složené ze 3–5 klasů – vrcholový podlouhlý klas je samčí, zbylé vejčité jsou samičí",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 800,
+      "filename": "800.jpg",
+      "path": "800.jpg",
+      "caption": "Ostřice rusá – plody (mošničky) jsou široce elipsoidní, žluto-zelenkavé, znenáhla zúžené v zobánek",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

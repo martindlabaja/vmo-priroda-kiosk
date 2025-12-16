@@ -1,0 +1,32 @@
+{
+  "id": 516,
+  "name": "Euglenids",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1566,
+      "filename": "1566.jpg",
+      "path": "1566.jpg",
+      "caption": "Euglenids of the genus Euglena are very active flagellates, orienting themselves using a red light-perceptive spot on the front end of their body. A flagellum and a conspicuous paramylon grain, containing storage substance (paramylon), are also visible in the picture. Photo text: Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 0
+    },
+    {
+      "id": 1567,
+      "filename": "1567.jpg",
+      "path": "1567.jpg",
+      "caption": "Euglena may change its body shape – it has a flexible pellicle (case). It moves using a single flagellum. A bright red light-perceptive spot – stigma, a pulsing vacuole and numerous green chloroplasts are visible in the picture. Photo: Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1568,
+      "filename": "1568.jpg",
+      "path": "1568.jpg",
+      "caption": "Euglenids of the genus Phacus have a rigid pellicle (case), they thus do not change their body shape. Photo: Doc. Petr Hašler",
+      "author": "",
+      "order": 2
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 164,
+  "name": "Domašov nad Bystřicí – lom na kótě Kupka",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 449,
+      "filename": "449.jpg",
+      "path": "449.jpg",
+      "caption": "Areál lomu<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 450,
+      "filename": "450.jpg",
+      "path": "450.jpg",
+      "caption": "Mineralizace alpského typu (křemen, albit, chlorit) na puklinách<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 451,
+      "filename": "451.jpg",
+      "path": "451.jpg",
+      "caption": "Křemen-barytová žíla, 3. etáž<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 452,
+      "filename": "452.jpg",
+      "path": "452.jpg",
+      "caption": "1. a 2.  etáž lomu, v poruše jsou vyvinuty křemen - karbonátové žíly s galenitem a sfaleritem<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 453,
+      "filename": "453.jpg",
+      "path": "453.jpg",
+      "caption": "2. etáž – křemenné žíly s minerály mědi<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 454,
+      "filename": "454.jpg",
+      "path": "454.jpg",
+      "caption": "Detail stěny se sekundárními minerály mědi<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 455,
+      "filename": "455.jpg",
+      "path": "455.jpg",
+      "caption": "Křemenná žíla s chryzokolem<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 456,
+      "filename": "456.jpg",
+      "path": "456.jpg",
+      "caption": "Modrý hroznovitý agregát chryzokolu, vzorek 3 cm<br /> Foto J. Král",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 459,
+      "filename": "459.jpg",
+      "path": "459.jpg",
+      "caption": "Velmi tmavě zelený kuličkovitý agregát pseudomalachitu 3 mm na chryzokolu<br /> Foto J. Král",
+      "author": "",
+      "order": 8
+    },
+    {
+      "id": 460,
+      "filename": "460.jpg",
+      "path": "460.jpg",
+      "caption": "Žlutozelený jehličkovitý kalciopetersit (jehličky do 1,1 mm) nový minerál popsaný z lomu na kótě Kupka<br /> Foto J. Král",
+      "author": "",
+      "order": 9
+    }
+  ]
+}

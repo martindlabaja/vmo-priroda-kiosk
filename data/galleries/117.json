@@ -1,0 +1,16 @@
+{
+  "id": 117,
+  "name": "Skrytěnky",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 193,
+      "filename": "193.jpg",
+      "path": "193.jpg",
+      "caption": "Skrytěnky poznáme podle vakovitého jícnu pokrytého vymrštitelnými tělísky. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

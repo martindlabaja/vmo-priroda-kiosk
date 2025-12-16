@@ -1,0 +1,48 @@
+{
+  "id": 153,
+  "name": "Vidnava",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 333,
+      "filename": "333.jpg",
+      "path": "333.jpg",
+      "caption": "Povrchový kaolínový důl opuštěný v r. 1921",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 334,
+      "filename": "334.jpg",
+      "path": "334.jpg",
+      "caption": "„Nová jáma“, v níž byla těžba kaolinu ukončena v r. 1991. Vrstva kaolinu je patrná nad vodní hladinou, vyšší stupeň v nadloží kaolínu tvoří glacifluviální písky.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 335,
+      "filename": "335.jpg",
+      "path": "335.jpg",
+      "caption": "Vrstva kaolínu zatopená vodou, další kaolín je na fotografii patrný vlevo od vodní plochy; „Nová jáma“.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 336,
+      "filename": "336.jpg",
+      "path": "336.jpg",
+      "caption": "Šamotka, která zpracovávala ve Vidnavě kaolín vytěžený v povrchových dolech.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 337,
+      "filename": "337.jpg",
+      "path": "337.jpg",
+      "caption": "Hlízka jantaru cca 2 cm nalezená v „Nové jámě“.",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

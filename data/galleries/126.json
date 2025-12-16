@@ -1,0 +1,48 @@
+{
+  "id": 126,
+  "name": "Ostřice nedošáchor",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 608,
+      "filename": "608.jpg",
+      "path": "608.jpg",
+      "caption": "Ostřice nedošáchor – roste u břehů tekoucích i stojatých vod v lužních lesích",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 609,
+      "filename": "609.jpg",
+      "path": "609.jpg",
+      "caption": "Ostřice nedošáchor – vytrvalá bylina vytvářející trsy",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 610,
+      "filename": "610.jpg",
+      "path": "610.jpg",
+      "caption": "Ostřice nedošáchor – květy jsou upořádány v kláscích – jeden koncový je samčí, další 3–4 postranní jsou samičí",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 611,
+      "filename": "611.jpg",
+      "path": "611.jpg",
+      "caption": "Ostřice nedošáchor – plody jsou nafoukle trojhranné žlutozelené měchýřky, klásky s měchýřky jsou převislé",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 612,
+      "filename": "612.jpg",
+      "path": "612.jpg",
+      "caption": "Ostřice nedošáchor – kolorovaná kresba<br /> Autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

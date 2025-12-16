@@ -1,0 +1,24 @@
+{
+  "id": 208,
+  "name": "Střevlík vrásčitý",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 613,
+      "filename": "613.jpg",
+      "path": "613.jpg",
+      "caption": "Střevlík vrásčitý",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 614,
+      "filename": "614.jpg",
+      "path": "614.jpg",
+      "caption": "Střevlík vrásčitý",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

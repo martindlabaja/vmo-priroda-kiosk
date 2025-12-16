@@ -1,0 +1,24 @@
+{
+  "id": 493,
+  "name": "Olomouc Nová ulice",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1346,
+      "filename": "1346.jpg",
+      "path": "1346.jpg",
+      "caption": "Olomouc Nová ulice, brickworks",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1347,
+      "filename": "1347.jpg",
+      "path": "1347.jpg",
+      "caption": "Olomouc Nová ulice, brickworks",
+      "author": "",
+      "order": 2
+    }
+  ]
+}

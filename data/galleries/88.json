@@ -1,0 +1,32 @@
+{
+  "id": 88,
+  "name": "Otakárek fenyklový ",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 100,
+      "filename": "100.jpg",
+      "path": "100.jpg",
+      "caption": "Otakárek fenyklový ",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 101,
+      "filename": "101.jpg",
+      "path": "101.jpg",
+      "caption": "Otakárek fenyklový - housenka",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 102,
+      "filename": "102.jpg",
+      "path": "102.jpg",
+      "caption": "Otakárek fenyklový - housenka s vystrčeným osmeteriem",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

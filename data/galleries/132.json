@@ -1,0 +1,40 @@
+{
+  "id": 132,
+  "name": "Javor horský, klen",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 234,
+      "filename": "234.jpg",
+      "path": "234.jpg",
+      "caption": "Javor horský – listy jsou dlouze řapíkaté, pětilaločné, na líci matné, tmavě zelené; drobné, žlutavě zelené květy jsou uspořádány v převislých, 10–12 cm dlouhých latách",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 235,
+      "filename": "235.jpg",
+      "path": "235.jpg",
+      "caption": "Javor horský – rašící pupen",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 236,
+      "filename": "236.jpg",
+      "path": "236.jpg",
+      "caption": "Javor horský – borka růžově až žlutavě šedohnědá, odlupuje se v nepravidelných plátcích",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 237,
+      "filename": "237.jpg",
+      "path": "237.jpg",
+      "caption": "Javor horský – listy a květy; kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

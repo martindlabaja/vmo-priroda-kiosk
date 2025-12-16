@@ -1,0 +1,24 @@
+{
+  "id": 96,
+  "name": "Vratič obecný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 114,
+      "filename": "114.jpg",
+      "path": "114.jpg",
+      "caption": "Vratič obecný – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 115,
+      "filename": "115.jpg",
+      "path": "115.jpg",
+      "caption": "Tesaříci pižmoví pářící se na květenství vratiče obecného",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

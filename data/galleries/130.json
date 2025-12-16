@@ -1,0 +1,48 @@
+{
+  "id": 130,
+  "name": "Buk lesní",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 225,
+      "filename": "225.jpg",
+      "path": "225.jpg",
+      "caption": "Buk lesní – je známý díky svým plodům; ostnatá číška puká čtyřmi chlopněmi a uvolňuje bukvice – hnědé, lesklé, ostře trojhranné nažky",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 226,
+      "filename": "226.jpg",
+      "path": "226.jpg",
+      "caption": "Buk lesní – mladé listy jsou lesklé, svěže zelené, na obvodu s dlouhými bělavými brvami",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 227,
+      "filename": "227.jpg",
+      "path": "227.jpg",
+      "caption": "Buk lesní – nažloutlé svazečky drobných samčích květů",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 228,
+      "filename": "228.jpg",
+      "path": "228.jpg",
+      "caption": "Buk lesní – borka stříbřitě šedá, hladká i u starých stromů",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 229,
+      "filename": "229.jpg",
+      "path": "229.jpg",
+      "caption": "Buk lesní – listy, květy a plody; kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

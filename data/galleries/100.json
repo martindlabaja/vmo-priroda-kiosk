@@ -1,0 +1,32 @@
+{
+  "id": 100,
+  "name": "Máčka ladní",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 129,
+      "filename": "129.jpg",
+      "path": "129.jpg",
+      "caption": "Máčka ladní – květenství složené z malých, bělavě-zelených květů",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 130,
+      "filename": "130.jpg",
+      "path": "130.jpg",
+      "caption": "Máčka ladní – celá rostlina",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 131,
+      "filename": "131.jpg",
+      "path": "131.jpg",
+      "caption": "Máčka ladní – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

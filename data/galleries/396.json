@@ -1,0 +1,48 @@
+{
+  "id": 396,
+  "name": "Jívová",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1472,
+      "filename": "1472.jpg",
+      "path": "1472.jpg",
+      "caption": "Lom Jívová",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1473,
+      "filename": "1473.jpg",
+      "path": "1473.jpg",
+      "caption": "Fosilní stopa rodu Megagrapton",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1474,
+      "filename": "1474.jpg",
+      "path": "1474.jpg",
+      "caption": "Goniatit Nomismoceras vittiger",
+      "author": "",
+      "order": 3
+    },
+    {
+      "id": 1475,
+      "filename": "1475.jpg",
+      "path": "1475.jpg",
+      "caption": "Fosilní stopa Dictyodora liebeana",
+      "author": "",
+      "order": 4
+    },
+    {
+      "id": 1476,
+      "filename": "1476.jpg",
+      "path": "1476.jpg",
+      "caption": "Fosilní stopa Planolites beverleyensis",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

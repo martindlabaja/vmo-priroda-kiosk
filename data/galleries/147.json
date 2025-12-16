@@ -1,0 +1,16 @@
+{
+  "id": 147,
+  "name": "Bruslařka rybničná",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 260,
+      "filename": "260.jpg",
+      "path": "260.jpg",
+      "caption": "Bruslařka rybničná",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

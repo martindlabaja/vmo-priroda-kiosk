@@ -1,0 +1,56 @@
+{
+  "id": 161,
+  "name": "Medlov – šachty ",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 411,
+      "filename": "411.jpg",
+      "path": "411.jpg",
+      "caption": "Halda po těžbě železné rudy zarostlá vegetací, okolí šachty Barbory<br /> Foto J. Zbirovský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 412,
+      "filename": "412.jpg",
+      "path": "412.jpg",
+      "caption": "Zasypané a zajištěné ústí šachty Barbora<br /> Foto J. Zbirovský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 413,
+      "filename": "413.jpg",
+      "path": "413.jpg",
+      "caption": "Zasypané a zajištěné ústí Větrní jámy<br /> Foto J. Zbirovský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 414,
+      "filename": "414.jpg",
+      "path": "414.jpg",
+      "caption": "Rozoraná halda u Větrní jámy<br /> Foto J. Zbirovský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 415,
+      "filename": "415.jpg",
+      "path": "415.jpg",
+      "caption": "Zasucené a zcela zarostlé povrchové dobývky Fe-rud<br /> Foto J. Zbirovský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 416,
+      "filename": "416.jpg",
+      "path": "416.jpg",
+      "caption": "Poddolovaný prostor pod haldou byl zavalen, takže došlo k propadu materiálu haldy do podzemí<br /> Foto J. Zbirovský",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

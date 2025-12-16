@@ -1,0 +1,88 @@
+{
+  "id": 486,
+  "name": "Praděd",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1309,
+      "filename": "1309.jpg",
+      "path": "1309.jpg",
+      "caption": "Praděd viewed from Horní Moravice<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1310,
+      "filename": "1310.jpg",
+      "path": "1310.jpg",
+      "caption": "Praděd viewed from Vysoká<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1311,
+      "filename": "1311.jpg",
+      "path": "1311.jpg",
+      "caption": "Praděd viewed from Dlouhé stráně<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1312,
+      "filename": "1312.jpg",
+      "path": "1312.jpg",
+      "caption": "Praděd viewed from Mnišské jámy<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1313,
+      "filename": "1313.jpg",
+      "path": "1313.jpg",
+      "caption": "Peak of Praděd – classic locality of anatase from 1965<br /> Photo by J. Král",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1314,
+      "filename": "1314.jpg",
+      "path": "1314.jpg",
+      "caption": "Anatase was rarely found in Tabulové scaly at the beginning of the 20th century<br /> Photo by P. Novotný ",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1315,
+      "filename": "1315.jpg",
+      "path": "1315.jpg",
+      "caption": "Crystal of anatase 6 mm, Praděd – 1965 collection<br /> Photo by J. Zimák",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1316,
+      "filename": "1316.jpg",
+      "path": "1316.jpg",
+      "caption": "The position of the anatase crystal allows for observation of the slight translucence of the crystal (extremely deep blue colour) <br /> Photo by J. Zimák",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1317,
+      "filename": "1317.jpg",
+      "path": "1317.jpg",
+      "caption": "Anatase crystal, magnified 16x, Praděd<br /> Photo by J. Jirásek",
+      "author": "",
+      "order": 8
+    },
+    {
+      "id": 1318,
+      "filename": "1318.jpg",
+      "path": "1318.jpg",
+      "caption": "White crystals of adularia up to 11 mm, Praděd<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 9
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+/**
+ * Priroda Kiosk - CSS Variables
+ * Design tokens from VMO Style Guide adapted for kiosk
+ */
+
+:root {
+    /* Colors - from VMO style guide */
+    --color-primary: #cc141c;
+    --color-primary-hover: #ea2931;
+    --color-primary-light: rgba(204, 20, 28, 0.08);
+    --color-text: #505050;
+    --color-text-light: #fff;
+    --color-text-muted: #a8a8a8;
+    --color-bg-main: #fff;
+    --color-bg-section: #f1f1f0;
+    --color-bg-dark: #1e1e1e;
+    --color-bg-darker: #333;
+    --color-border: #ddd;
+    --color-overlay: rgba(0, 0, 0, 0.7);
+
+    /* Typography - scaled up for kiosk readability */
+    --font-family: 'Open Sans', sans-serif;
+    --font-size-base: 20px;
+    --font-size-sm: 18px;
+    --font-size-xs: 16px;
+    --font-size-h1: 48px;
+    --font-size-h2: 40px;
+    --font-size-h3: 32px;
+    --font-size-h4: 26px;
+    --font-size-h5: 22px;
+    --font-size-h6: 20px;
+    --line-height: 1.6;
+    --letter-spacing: 0.05em;
+
+    /* Layout - responsive with min dimensions */
+    --screen-width: 100vw;
+    --screen-height: 100vh;
+    --header-height: 80px;
+    --content-height: calc(100vh - var(--header-height));
+
+    /* Touch targets - minimum 60px for comfortable touch */
+    --touch-target-min: 60px;
+    --touch-target-comfortable: 80px;
+
+    /* Spacing */
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 40px;
+    --spacing-xl: 60px;
+
+    /* Border radius */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 15px;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+    --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.2);
+
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+
+    /* Z-index layers */
+    --z-content: 1;
+    --z-navigation: 10;
+    --z-header: 100;
+    --z-overlay: 500;
+    --z-modal: 1000;
+
+    /* Gallery */
+    --gallery-main-width: 800px;
+    --gallery-main-height: 600px;
+
+    /* Tiles - responsive sizing */
+    --tile-min-size: 180px;
+    --tile-max-size: 280px;
+    --tile-gap: 20px;
+}

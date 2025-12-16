@@ -1,0 +1,144 @@
+{
+  "id": 474,
+  "name": "Maršíkov – Scheibengraben",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1171,
+      "filename": "1171.jpg",
+      "path": "1171.jpg",
+      "caption": "Scheibengraben locality is situated in the left part in the centre<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1172,
+      "filename": "1172.jpg",
+      "path": "1172.jpg",
+      "caption": "Research on the small quarry in 1994, there is a drift visible in the front part of the quarry<br /> Photo by M. Nepejchal",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1173,
+      "filename": "1173.jpg",
+      "path": "1173.jpg",
+      "caption": "Condition of the quarry in 2002, the drift is nearly caved in<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1174,
+      "filename": "1174.jpg",
+      "path": "1174.jpg",
+      "caption": "Locality in 2006<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1175,
+      "filename": "1175.jpg",
+      "path": "1175.jpg",
+      "caption": "Digging in a slag heap<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1176,
+      "filename": "1176.jpg",
+      "path": "1176.jpg",
+      "caption": "Trial diggings in the surroundings of the locality<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1177,
+      "filename": "1177.jpg",
+      "path": "1177.jpg",
+      "caption": "Green-blue crystal of aquamarine 3 cm<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1178,
+      "filename": "1178.jpg",
+      "path": "1178.jpg",
+      "caption": "Black crystals of tourmaline in pegmatite, sample 5 x 5 cm<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1179,
+      "filename": "1179.jpg",
+      "path": "1179.jpg",
+      "caption": "Pink grain of triplite 9 mm in black schorl<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 8
+    },
+    {
+      "id": 1180,
+      "filename": "1180.jpg",
+      "path": "1180.jpg",
+      "caption": "Black crystals of columbite up to 7 mm<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 9
+    },
+    {
+      "id": 1181,
+      "filename": "1181.jpg",
+      "path": "1181.jpg",
+      "caption": "Blackgreen crystal of gahnite 4 mm in pegmatite<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 10
+    },
+    {
+      "id": 1182,
+      "filename": "1182.jpg",
+      "path": "1182.jpg",
+      "caption": "Transparent tabular crystal of bertrandite 5 mm<br /> Photo by J. Sejkora",
+      "author": "",
+      "order": 11
+    },
+    {
+      "id": 1183,
+      "filename": "1183.jpg",
+      "path": "1183.jpg",
+      "caption": "Yellow crystal of bismutite 10 x 1 mm in pegmatite<br /> Photo by J. Sejkora",
+      "author": "",
+      "order": 12
+    },
+    {
+      "id": 1184,
+      "filename": "1184.jpg",
+      "path": "1184.jpg",
+      "caption": "Greenish crystal of bismutite 6 mm in pegmatite<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 13
+    },
+    {
+      "id": 1185,
+      "filename": "1185.jpg",
+      "path": "1185.jpg",
+      "caption": "Grey-green crystal of apatite 4 mm in a crystal of quartz<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 14
+    },
+    {
+      "id": 1186,
+      "filename": "1186.jpg",
+      "path": "1186.jpg",
+      "caption": "Brown crystal of zircon 2.5 mm in pegmatite, there are greenish tables of muscovite on the left from the zircon<br /> Photo by J. Král",
+      "author": "",
+      "order": 15
+    },
+    {
+      "id": 1187,
+      "filename": "1187.jpg",
+      "path": "1187.jpg",
+      "caption": "Brilliant cut (diameter 3 mm) made from part of an aquamarine crystal<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 16
+    }
+  ]
+}

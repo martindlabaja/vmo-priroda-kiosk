@@ -1,0 +1,64 @@
+{
+  "id": 185,
+  "name": "Čelechovice na Hané – Růžičkův lom",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 550,
+      "filename": "550.jpg",
+      "path": "550.jpg",
+      "caption": "Trilobit Dechenella rittbergensis",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 551,
+      "filename": "551.jpg",
+      "path": "551.jpg",
+      "caption": "Tabulátní korál Favosites goldfussi",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 552,
+      "filename": "552.jpg",
+      "path": "552.jpg",
+      "caption": "Korality čtyřčetných korálů",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 553,
+      "filename": "553.jpg",
+      "path": "553.jpg",
+      "caption": "Čtyřčetný korál Calceola sandalina a tabulátní korál Favosites goldfussi",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 554,
+      "filename": "554.jpg",
+      "path": "554.jpg",
+      "caption": "Trilobit Schizoproetus celechovicensis",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 555,
+      "filename": "555.jpg",
+      "path": "555.jpg",
+      "caption": "Korality čtyřčetných korálů",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 556,
+      "filename": "556.jpg",
+      "path": "556.jpg",
+      "caption": "Čelechovice na Hané – Růžičkův lom",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

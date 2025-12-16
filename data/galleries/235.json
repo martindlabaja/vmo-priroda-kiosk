@@ -1,0 +1,24 @@
+{
+  "id": 235,
+  "name": "Čolek horský",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 659,
+      "filename": "659.jpg",
+      "path": "659.jpg",
+      "caption": "Čolek horský",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 660,
+      "filename": "660.jpg",
+      "path": "660.jpg",
+      "caption": "Čolek horský",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

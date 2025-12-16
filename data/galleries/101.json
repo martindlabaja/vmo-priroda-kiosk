@@ -1,0 +1,40 @@
+{
+  "id": 101,
+  "name": "Pupava bezlodyžná",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 132,
+      "filename": "132.jpg",
+      "path": "132.jpg",
+      "caption": "Pupava bezlodyžná – uprostřed listové růžice je květenství – úbor, mající až 6 cm v průměru",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 133,
+      "filename": "133.jpg",
+      "path": "133.jpg",
+      "caption": "Pupava bezlodyžná – úbory jsou lemovány suchomázdřitými, lesklými, nažloutlými listeny",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 134,
+      "filename": "134.jpg",
+      "path": "134.jpg",
+      "caption": "Pupava bezlodyžná – listeny lemující úbor se za vlhka zavírají",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 135,
+      "filename": "135.jpg",
+      "path": "135.jpg",
+      "caption": "Pupava bezlodyžná – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

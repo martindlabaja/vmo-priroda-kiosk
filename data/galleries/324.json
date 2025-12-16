@@ -1,0 +1,32 @@
+{
+  "id": 324,
+  "name": "Borovice kleč, kosodřevina",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 819,
+      "filename": "819.jpg",
+      "path": "819.jpg",
+      "caption": "Borovice kleč – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 820,
+      "filename": "820.jpg",
+      "path": "820.jpg",
+      "caption": "Borovice kleč – samčí květenství jsou žlutá až oranžová, vyrůstají na bázi nových větévek ",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 821,
+      "filename": "821.jpg",
+      "path": "821.jpg",
+      "caption": "Borovice kleč – samičí květenství jsou červená až fialová, vyrůstají na koncích nových větévek",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

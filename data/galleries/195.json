@@ -1,0 +1,24 @@
+{
+  "id": 195,
+  "name": "Užovka obojková",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 585,
+      "filename": "585.jpg",
+      "path": "585.jpg",
+      "caption": "Užovka obojková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 586,
+      "filename": "586.jpg",
+      "path": "586.jpg",
+      "caption": "Užovka obojková",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

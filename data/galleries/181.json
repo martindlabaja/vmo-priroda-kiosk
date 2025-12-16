@@ -1,0 +1,64 @@
+{
+  "id": 181,
+  "name": "Maletín",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 537,
+      "filename": "537.jpg",
+      "path": "537.jpg",
+      "caption": "Maletín – celkový pohled na lom",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 538,
+      "filename": "538.jpg",
+      "path": "538.jpg",
+      "caption": "Maletín – lavice křídového pískovce",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 539,
+      "filename": "539.jpg",
+      "path": "539.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 540,
+      "filename": "540.jpg",
+      "path": "540.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 541,
+      "filename": "541.jpg",
+      "path": "541.jpg",
+      "caption": "Otisk koncové šištice",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 542,
+      "filename": "542.jpg",
+      "path": "542.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 543,
+      "filename": "543.jpg",
+      "path": "543.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

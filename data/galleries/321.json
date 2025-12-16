@@ -1,0 +1,72 @@
+{
+  "id": 321,
+  "name": "Krásivky a rozsivky",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 806,
+      "filename": "806.jpg",
+      "path": "806.jpg",
+      "caption": "Rod penátních rozsivek Eunotia je indikátorem kyselých vod. Některé druhy obývají i silně kyselá stanoviště pod pH 4. <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 807,
+      "filename": "807.jpg",
+      "path": "807.jpg",
+      "caption": "Jeden z typických rodů penátních rozsivek obývajících rašeliniště. Schránky mají většinou eliptický tvar. <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 808,
+      "filename": "808.jpg",
+      "path": "808.jpg",
+      "caption": "Buňky penátní rozsivky Tabellaria bývají spojeny v rozích tak, že tvoří cik-cak kolonie. <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 809,
+      "filename": "809.jpg",
+      "path": "809.jpg",
+      "caption": "Krásivky z rodu Micrasterias se vyznačují tvarovou rozmanitostí jednotlivých druhů a určitě jménu „krásivka“ nedělají ostudu. Jsou velmi běžné na přechodových rašeliništích (pH 5–6).<br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 810,
+      "filename": "810.jpg",
+      "path": "810.jpg",
+      "caption": "Krásivky z rodu Micrasterias se vyznačují tvarovou rozmanitostí jednotlivých druhů a určitě jménu „krásivka“ nedělají ostudu. Jsou velmi běžné na přechodových rašeliništích (pH 5–6). <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 811,
+      "filename": "811.jpg",
+      "path": "811.jpg",
+      "caption": "Krásivky z rodu Micrasterias se vyznačují tvarovou rozmanitostí jednotlivých druhů a určitě jménu „krásivka“ nedělají ostudu. Jsou velmi běžné na přechodových rašeliništích (pH 5–6). <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 812,
+      "filename": "812.jpg",
+      "path": "812.jpg",
+      "caption": "Rod krásivek Euastrum je typický pro prostředí s kyselým pH – zejména pro rašeliniště a bažiny. <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 813,
+      "filename": "813.jpg",
+      "path": "813.jpg",
+      "caption": "Drobnější krásivky rodu Cosmarium se mohou objevit i v planktonu. <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 7
+    }
+  ]
+}

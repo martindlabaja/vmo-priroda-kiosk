@@ -1,0 +1,5 @@
+# Museum Kiosk - Python Dependencies
+flask==3.0.0
+gunicorn==21.2.0
+pillow==10.1.0
+mysql-connector-python==8.2.0

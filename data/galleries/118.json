@@ -1,0 +1,16 @@
+{
+  "id": 118,
+  "name": "Obrněnky",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 194,
+      "filename": "194.jpg",
+      "path": "194.jpg",
+      "caption": "Sladkovodní obrněnky, jako toto Peridinium, se přemnoží jen výjimečně. Potkáme je v čistších vodách.",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

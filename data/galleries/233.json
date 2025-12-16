@@ -1,0 +1,24 @@
+{
+  "id": 233,
+  "name": "Tetřev hlušec",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 655,
+      "filename": "655.jpg",
+      "path": "655.jpg",
+      "caption": "Tetřev hlušec - samec",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 656,
+      "filename": "656.jpg",
+      "path": "656.jpg",
+      "caption": "Tetřev hlušec - samice",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<div class="tile-section-container">
+    <!-- Category Header -->
+    <header class="tile-section-header">
+        <h1>{{ content.title }}</h1>
+    </header>
+
+    <!-- Main Content Area -->
+    <div class="tile-section-main">
+        <!-- Optional: Section Image -->
+        <div class="section-header-image">
+            <img src="/images/menu/{{ content.id }}.jpg"
+                 alt="{{ content.title }}"
+                 onerror="this.parentElement.style.display='none'">
+        </div>
+
+        <!-- Tiles Container - shows direct children -->
+        <div id="tile-container"
+             hx-get="/partials/tiles?parent={{ content.url }}"
+             hx-trigger="load"
+             hx-swap="innerHTML">
+            <!-- Tiles loaded via HTMX -->
+            <div class="loading">
+                <div class="spinner"></div>
+            </div>
+        </div>
+    </div>
+</div>

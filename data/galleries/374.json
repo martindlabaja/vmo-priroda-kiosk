@@ -1,0 +1,24 @@
+{
+  "id": 374,
+  "name": "Olomouc Nová ulice",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 927,
+      "filename": "927.jpg",
+      "path": "927.jpg",
+      "caption": "Olomouc Nová ulice, cihelna",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 928,
+      "filename": "928.jpg",
+      "path": "928.jpg",
+      "caption": "Olomouc Nová ulice, cihelna",
+      "author": "",
+      "order": 2
+    }
+  ]
+}

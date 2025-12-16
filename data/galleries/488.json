@@ -1,0 +1,64 @@
+{
+  "id": 488,
+  "name": "Maletín",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1328,
+      "filename": "1328.jpg",
+      "path": "1328.jpg",
+      "caption": "Maletín – overall view of the pit",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1329,
+      "filename": "1329.jpg",
+      "path": "1329.jpg",
+      "caption": "Maletín – beds of Cretaceous sandstone",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1330,
+      "filename": "1330.jpg",
+      "path": "1330.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1331,
+      "filename": "1331.jpg",
+      "path": "1331.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1332,
+      "filename": "1332.jpg",
+      "path": "1332.jpg",
+      "caption": "Trace of terminal cone",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1333,
+      "filename": "1333.jpg",
+      "path": "1333.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1334,
+      "filename": "1334.jpg",
+      "path": "1334.jpg",
+      "caption": "Magnolia sp.",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

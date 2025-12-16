@@ -1,0 +1,80 @@
+{
+  "id": 468,
+  "name": "Žulová – tactites",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1131,
+      "filename": "1131.jpg",
+      "path": "1131.jpg",
+      "caption": "Boží hora, wooded hill with several occurrences of tactite minerals, Žulová<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1132,
+      "filename": "1132.jpg",
+      "path": "1132.jpg",
+      "caption": "Diggings in slope debris with tactites, Žulová – Boží hora<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1133,
+      "filename": "1133.jpg",
+      "path": "1133.jpg",
+      "caption": "Prospecting of tactite boulders in slope debris, Žulová – Boží hora<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1134,
+      "filename": "1134.jpg",
+      "path": "1134.jpg",
+      "caption": "Tactite and marble boulders near the diggings, Žulová – Boží hora<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1135,
+      "filename": "1135.jpg",
+      "path": "1135.jpg",
+      "caption": "Granite outcrops at the peak of Borový Hill, Žulová<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1136,
+      "filename": "1136.jpg",
+      "path": "1136.jpg",
+      "caption": "Stone walls formed by selective erosion of granites, Žulová – Borový Hill<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1137,
+      "filename": "1137.jpg",
+      "path": "1137.jpg",
+      "caption": "Diggings in tactites on Borový Hill, Žulová<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1138,
+      "filename": "1138.jpg",
+      "path": "1138.jpg",
+      "caption": "Fragments of tactites remain after separation of the mineralogical samples, Žulová – Borový Hill<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1139,
+      "filename": "1139.jpg",
+      "path": "1139.jpg",
+      "caption": "Tactites with vesuvianite (rodlike) and garnet (in quartz), Žulová – Borový Hill<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

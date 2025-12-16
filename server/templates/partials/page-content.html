@@ -1,0 +1,61 @@
+<div class="page-container">
+    <!-- Optional Sidebar -->
+    {% if content.children %}
+    <aside class="page-sidebar scrollable">
+        <nav class="sidebar-menu">
+            {% for child in content.children %}
+            <a href="/{{ child.url }}"
+               hx-get="/{{ child.url }}"
+               hx-target="#main-content"
+               hx-swap="innerHTML show:window:top"
+               hx-push-url="true"
+               class="sidebar-menu-item">
+                {{ child.name }}
+            </a>
+            {% endfor %}
+        </nav>
+    </aside>
+    {% endif %}
+
+    <!-- Main Content -->
+    <div class="page-main">
+        <!-- Media Area (Gallery or Image) -->
+        {% if gallery %}
+        <div class="page-media">
+            {% include "partials/gallery-viewer.html" %}
+        </div>
+        {% elif content.image %}
+        <div class="page-media">
+            <img src="/data/images/full/{{ content.image }}"
+                 alt="{{ content.title }}"
+                 class="page-image">
+        </div>
+        {% endif %}
+
+        <!-- Text Content Area -->
+        <div class="page-text">
+            <h1 class="page-title">{{ content.title }}</h1>
+
+            <div class="page-content scrollable">
+                {% if content.content %}
+                {{ content.content|safe }}
+                {% else %}
+                <p class="text-muted">
+                    Obsah této stránky se připravuje.
+                </p>
+                {% endif %}
+            </div>
+
+            <!-- Sub-chapters button -->
+            {% if content.children %}
+            <div class="page-actions">
+                <button type="button"
+                        class="btn btn-outline"
+                        onclick="document.querySelector('.page-sidebar').classList.toggle('visible')">
+                    Další kapitoly
+                </button>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+[Unit]
+Description=Priroda Kiosk Chromium Browser
+Documentation=https://github.com/vmo/priroda-kiosk
+After=graphical.target priroda-kiosk.service
+Wants=priroda-kiosk.service
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+Environment="DISPLAY=:0"
+Environment="XAUTHORITY=/home/pi/.Xauthority"
+Environment="KIOSK_URL=http://localhost:5000"
+ExecStart=/home/pi/priroda-kiosk/config/chromium-kiosk.sh
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=graphical.target

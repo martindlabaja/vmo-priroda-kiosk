@@ -1,0 +1,56 @@
+{
+  "id": 473,
+  "name": "Červenohorské Saddleback",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1165,
+      "filename": "1165.jpg",
+      "path": "1165.jpg",
+      "caption": "Outcrops of metamorphic rocks in the mountain relief of the Červenohorské Saddleback<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1166,
+      "filename": "1166.jpg",
+      "path": "1166.jpg",
+      "caption": "Abandoned pit on the Moravian side of the Červenohorské Saddleback – collecting locality of axinite<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1167,
+      "filename": "1167.jpg",
+      "path": "1167.jpg",
+      "caption": "Detail of metamorphic rocks defile in the pit<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1168,
+      "filename": "1168.jpg",
+      "path": "1168.jpg",
+      "caption": "Fissure where samples of axinite were found 30 years ago<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1169,
+      "filename": "1169.jpg",
+      "path": "1169.jpg",
+      "caption": "Fissure in the pit on the Silesian part of the Červenohorské Saddleback, relics of Alpine mineralization<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1170,
+      "filename": "1170.jpg",
+      "path": "1170.jpg",
+      "caption": "Greyish violet crystals of axinite from 3 to 7 mm in quartz from a cavity of metamorphic rocks, Červenohorské Saddleback – pit<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

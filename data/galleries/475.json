@@ -1,0 +1,120 @@
+{
+  "id": 475,
+  "name": "Maršíkov – Schinderhübel",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1188,
+      "filename": "1188.jpg",
+      "path": "1188.jpg",
+      "caption": "The Schinderhübel locality is situated near the peak of the left hill<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1189,
+      "filename": "1189.jpg",
+      "path": "1189.jpg",
+      "caption": "The locality is to the left of the peak here<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1190,
+      "filename": "1190.jpg",
+      "path": "1190.jpg",
+      "caption": "Brashed-in digging in a classical occurrence<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1191,
+      "filename": "1191.jpg",
+      "path": "1191.jpg",
+      "caption": "Later research work near a classical occurrence<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 3
+    },
+    {
+      "id": 1192,
+      "filename": "1192.jpg",
+      "path": "1192.jpg",
+      "caption": "There is a pegmatite vein visible in the front part of the digging<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 4
+    },
+    {
+      "id": 1193,
+      "filename": "1193.jpg",
+      "path": "1193.jpg",
+      "caption": "Green-blue crystal of beryl 3 cm, tiny tables of chrysoberyl growing over the beryl<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1194,
+      "filename": "1194.jpg",
+      "path": "1194.jpg",
+      "caption": "Red crystal of spessartine (3 mm) with muscovite (big greyish table) and white needlelike sillimanite<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1195,
+      "filename": "1195.jpg",
+      "path": "1195.jpg",
+      "caption": "Needlelike aggregate of sillimanite, sample 7 x 5 cm<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1196,
+      "filename": "1196.jpg",
+      "path": "1196.jpg",
+      "caption": "Green-yellow six compound crystals of chrysoberyl 12 x 7 mm in sillimanite<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 8
+    },
+    {
+      "id": 1197,
+      "filename": "1197.jpg",
+      "path": "1197.jpg",
+      "caption": "Two compound crystals of chrysoberyl 14 mm in pegmatite<br /> Photo by J. Král",
+      "author": "",
+      "order": 9
+    },
+    {
+      "id": 1198,
+      "filename": "1198.jpg",
+      "path": "1198.jpg",
+      "caption": "Spessartine (red) with gahnite (dark green) in pegmatite 5 x 4 cm<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 10
+    },
+    {
+      "id": 1199,
+      "filename": "1199.jpg",
+      "path": "1199.jpg",
+      "caption": "White needlelike aggregate of bavenite 11 x 5 mm<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 11
+    },
+    {
+      "id": 1200,
+      "filename": "1200.jpg",
+      "path": "1200.jpg",
+      "caption": "Bavenite, the mineral is magnified approximately 20x<br /> Photo by J. Sejkora",
+      "author": "",
+      "order": 12
+    },
+    {
+      "id": 1201,
+      "filename": "1201.jpg",
+      "path": "1201.jpg",
+      "caption": "Black crystal of columbite (largest 8 mm) in pegmatite<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 13
+    }
+  ]
+}

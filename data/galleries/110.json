@@ -1,0 +1,168 @@
+{
+  "id": 110,
+  "name": "Rozsivky",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 166,
+      "filename": "166.jpg",
+      "path": "166.jpg",
+      "caption": "Schránka rozsivek v elektronovém mikroskopu. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 167,
+      "filename": "167.jpg",
+      "path": "167.jpg",
+      "caption": "Prázdné schránky rozsivek Pinnularia fotografované metodou černého pole. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 168,
+      "filename": "168.jpg",
+      "path": "168.jpg",
+      "caption": "Detail schránky rozsivek v elektronovém mikroskopu. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 169,
+      "filename": "169.jpg",
+      "path": "169.jpg",
+      "caption": "Schránka rozsivek v elektronovém mikroskopu. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 170,
+      "filename": "170.jpg",
+      "path": "170.jpg",
+      "caption": "Detail schránky rozsivek v elektronovém mikroskopu. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 171,
+      "filename": "171.jpg",
+      "path": "171.jpg",
+      "caption": "Při pozorování křemičité schránky rozsivek shora, vidíme tzv. misku. Foto skenovacím elektronovým mikroskopem Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 172,
+      "filename": "172.jpg",
+      "path": "172.jpg",
+      "caption": "Křemičitá schránka rozsivek při pohledu zboku. Foto skenovacím elektronovým mikroskopem Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 173,
+      "filename": "173.jpg",
+      "path": "173.jpg",
+      "caption": "Melosira patří ke koloniálním centrickým rozsivkám a vyskytuje se v nárostech. Kolonie připomíná vlákno, jednotlivé buňky však spolu nekomunikují a proto nejde o pravé vlákno. V buňce jsou patrné četné hnědé plastidy. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 174,
+      "filename": "174.jpg",
+      "path": "174.jpg",
+      "caption": "Centrické rozsivky se rozmnožují oogamií, některé buňky se přemění v 1–2 buňky vaječné, jiné v četné, drobné, bičíkaté spermatické buňky. Spermatické buňky jsou k buňce vaječné přilákány feromony. Foto Doc. Petr Hašler",
+      "author": "",
+      "order": 8
+    },
+    {
+      "id": 175,
+      "filename": "175.jpg",
+      "path": "175.jpg",
+      "caption": "Výsledkem pohlavního rozmnožování centrických rozsivek jsou velké kulovité zygoty – auxospory. Foto Doc. Petr Hašler",
+      "author": "",
+      "order": 9
+    },
+    {
+      "id": 176,
+      "filename": "176.jpg",
+      "path": "176.jpg",
+      "caption": "Navicula – člunovka je penátní rozsivka, která dostala název podle tvaru buňky. Uvnitř je patrné centrálně uložené jádro a dva podélně uložené chloroplasty. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 10
+    },
+    {
+      "id": 177,
+      "filename": "177.jpg",
+      "path": "177.jpg",
+      "caption": "Nitzschia je štíhlá penátní rozsivka se dvěma vrcholově uloženými chloroplasty. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 11
+    },
+    {
+      "id": 178,
+      "filename": "178.jpg",
+      "path": "178.jpg",
+      "caption": "Piškotovitý tvar schránky má penátní rozsivka Cymatopleura. Má jediný laločnatě členěný chloroplast. Dva jedinci na obrázku se chystají k pohlavnímu rozmnožování. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 12
+    },
+    {
+      "id": 179,
+      "filename": "179.jpg",
+      "path": "179.jpg",
+      "caption": "Cik-cak kolonie tvoří penátní rozsivka Tabellaria. Může žít na dně i ve vodním sloupci. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 13
+    },
+    {
+      "id": 180,
+      "filename": "180.jpg",
+      "path": "180.jpg",
+      "caption": "Robustní penátní rozsivka Amphora žije v jemných sedimentech (epipelonu). Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 14
+    },
+    {
+      "id": 181,
+      "filename": "181.jpg",
+      "path": "181.jpg",
+      "caption": "Tvorba gamet u penátní rozsivky Neidium. Rozsivky jsou jedny z mála řas, které mají ve vegetativním stavu dvě sádky chromozomů a při pohlavním rozmnožování splývají haploidní gamety, které vytvoří diploidní zygotu. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 15
+    },
+    {
+      "id": 182,
+      "filename": "182.jpg",
+      "path": "182.jpg",
+      "caption": "Zygoty penátní rozsivky Stauroneis. Penátní rozsivky jsou spjaty s bentickým způsobem života. Pomalu se pohybují po substrátu a hledají vhodného sexuálního partnera. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 16
+    },
+    {
+      "id": 183,
+      "filename": "183.jpg",
+      "path": "183.jpg",
+      "caption": "Dva váčky se sporami parazita na částečně zničené buňce rozsivky Sellaphora. Parazité se zřejmě vyvíjeli souběžně se svými hostiteli, protože jsou schopni rozeznat feromony hostitelské rozsivky a napadají výhradně samičí buňky. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 17
+    },
+    {
+      "id": 184,
+      "filename": "184.jpg",
+      "path": "184.jpg",
+      "caption": "Centrické rozsivky jsou v planktonu jako doma. Jsou drobné, kulovité, a proto klesají pomalu. Mnohdy jsou opatřeny tenkými ostny, které zvětšují povrch a zpomalují klesání. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 18
+    },
+    {
+      "id": 185,
+      "filename": "185.jpg",
+      "path": "185.jpg",
+      "caption": "Penátní rozsivky nejsou pro plankton typické. Mohou zde žít jen jemné druhy, tvořící prostorové kolonie. Tvorbou kolonií zvětšují svůj povrch a zmenšují rychlost klesání. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 19
+    }
+  ]
+}

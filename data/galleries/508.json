@@ -1,0 +1,40 @@
+{
+  "id": 508,
+  "name": "The Rešovské waterfalls",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1397,
+      "filename": "1397.jpg",
+      "path": "1397.jpg",
+      "caption": "Rešovské waterfalls – view of the lower part of the cascade with blocks of metavolcanic rocks in the riverbed of the Huntava river<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1398,
+      "filename": "1398.jpg",
+      "path": "1398.jpg",
+      "caption": "Rešovské waterfalls – the main cascade of the waterfall. Its rock level and right bank wall consists of quartz keratophyres<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1399,
+      "filename": "1399.jpg",
+      "path": "1399.jpg",
+      "caption": "Rešovské waterfalls – smaller cascades in the riverbed of the Huntava river above the main level of the waterfall<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 3
+    },
+    {
+      "id": 1400,
+      "filename": "1400.jpg",
+      "path": "1400.jpg",
+      "caption": "Near the Rešovské waterfalls – brashed-in opening of an old, manually tunnelled iron ore drift<br /> Photo by P. Rozsíval ",
+      "author": "",
+      "order": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 484,
+  "name": "Horní Město",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1284,
+      "filename": "1284.jpg",
+      "path": "1284.jpg",
+      "caption": "Granular aggregate of silver 4 mm in galena with pyrite (yellow), Horní Město deposit<br /> Photo by J. Sejkora",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1285,
+      "filename": "1285.jpg",
+      "path": "1285.jpg",
+      "caption": "Argentite – black granular clusters up to 7 mm, there is granular silver in the centre of a number of clusters, quartz-carbonate vein, Horní Město deposit<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1286,
+      "filename": "1286.jpg",
+      "path": "1286.jpg",
+      "caption": "Proustite – red granular cluster 5 mm with galena (grey) in quartz, Horní Město deposit<br /> Photo by J. Sejkora",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1287,
+      "filename": "1287.jpg",
+      "path": "1287.jpg",
+      "caption": "Chalcocite – grey grains of metallic lustre up to 2 mm in quartz, malachite, Skály deposit<br /> Photo by J. Král",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1288,
+      "filename": "1288.jpg",
+      "path": "1288.jpg",
+      "caption": "Malachite – green needles up to 2.5 mm in quartz, Skály deposit<br /> Photo by J. Král",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1289,
+      "filename": "1289.jpg",
+      "path": "1289.jpg",
+      "caption": "Blue beryl (11 mm) in quartz, quartz is bordered by the position of hematite (extracted iron ore), Skály deposit<br /> Photo by J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1290,
+      "filename": "1290.jpg",
+      "path": "1290.jpg",
+      "caption": "Granulose cluster of blue beryl (13 mm) in quartz-carbonate vein, Skály deposit<br /> Photo by J. Král",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

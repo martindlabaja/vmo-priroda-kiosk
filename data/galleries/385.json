@@ -1,0 +1,32 @@
+{
+  "id": 385,
+  "name": "Řeka Opava – rýžoviště zlata",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1485,
+      "filename": "1485.jpg",
+      "path": "1485.jpg",
+      "caption": "Černá Opava pod Rejvízem<br />Foto P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1486,
+      "filename": "1486.jpg",
+      "path": "1486.jpg",
+      "caption": "Zdrojem zlata v rýžovištích jsou horniny vrbenské skupiny v horním toku řeky Opavy. Historická štola na těžbu primárních rud se zlatem pod Suchým vrchem<br />Foto P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1487,
+      "filename": "1487.jpg",
+      "path": "1487.jpg",
+      "caption": "Valoun křemene se zlatem, velikost 3,5 cm, lokalita Pocheň, Národní muzeum v Praze<br />Foto J. Král",
+      "author": "",
+      "order": 3
+    }
+  ]
+}

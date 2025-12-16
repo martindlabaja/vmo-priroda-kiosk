@@ -1,0 +1,16 @@
+{
+  "id": 92,
+  "name": "Dobromysl obecná",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 110,
+      "filename": "110.jpg",
+      "path": "110.jpg",
+      "caption": "Dobromysl obecná (oregano) – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

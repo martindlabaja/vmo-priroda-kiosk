@@ -1,0 +1,32 @@
+{
+  "id": 83,
+  "name": "Ťuhýk obecný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 89,
+      "filename": "89.jpg",
+      "path": "89.jpg",
+      "caption": "Ťuhýk obecný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 90,
+      "filename": "90.jpg",
+      "path": "90.jpg",
+      "caption": "Ťuhýk obecný - hnízdo s vejci",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 91,
+      "filename": "91.jpg",
+      "path": "91.jpg",
+      "caption": "Ťuhýk obecný s mládětem",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

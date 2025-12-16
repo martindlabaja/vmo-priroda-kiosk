@@ -1,0 +1,16 @@
+{
+  "id": 97,
+  "name": "Chrpa čekánek",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 116,
+      "filename": "116.jpg",
+      "path": "116.jpg",
+      "caption": "Chrpa čekánek – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

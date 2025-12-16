@@ -1,0 +1,48 @@
+{
+  "id": 320,
+  "name": "Suchopýr úzkolistý",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 801,
+      "filename": "801.jpg",
+      "path": "801.jpg",
+      "caption": "Suchopýr úzkolistý – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 802,
+      "filename": "802.jpg",
+      "path": "802.jpg",
+      "caption": "Suchopýr úzkolistý – roste na stabilně podmáčených kyselých půdách",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 803,
+      "filename": "803.jpg",
+      "path": "803.jpg",
+      "caption": "Suchopýr úzkolistý – květenství je tvořeno nejčastěji pěti stopkatými klásky, které jsou později převislé",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 804,
+      "filename": "804.jpg",
+      "path": "804.jpg",
+      "caption": "Suchopýr úzkolistý – květenství je tvořeno nejčastěji pěti stopkatými klásky, které jsou později převislé",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 805,
+      "filename": "805.jpg",
+      "path": "805.jpg",
+      "caption": "Suchopýr úzkolistý – štětinky okvětí se v průběhu květu prodlužují až na 4 cm a vytváří na kláscích bělostné chomáče",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 430,
+  "name": "Simplestem Bur-Reed",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1003,
+      "filename": "1003.jpg",
+      "path": "1003.jpg",
+      "caption": "Simplestem Bur-Reed – perennial herb growing on moist to wet places",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1004,
+      "filename": "1004.jpg",
+      "path": "1004.jpg",
+      "caption": "Simplestem Bur-Reed – flowers are arranged in compound inflorescences – dense globular capitula; these capitula are further arranged in a panicle",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1005,
+      "filename": "1005.jpg",
+      "path": "1005.jpg",
+      "caption": "Simplestem Bur-Reed – flowers are arranged in compound inflorescences – dense globular capitula; these capitula are further arranged in a panicle",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1006,
+      "filename": "1006.jpg",
+      "path": "1006.jpg",
+      "caption": "Simplestem Bur-Reed – upper capitula on the tops of branches of the panicle are composed solely of male flowers ",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1007,
+      "filename": "1007.jpg",
+      "path": "1007.jpg",
+      "caption": "Simplestem Bur-Reed – lower capitula are composed solely of female flowers",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1008,
+      "filename": "1008.jpg",
+      "path": "1008.jpg",
+      "caption": "Simplestem Bur-Reed - fruits are dry, indehiscent, creating typical prickly balls on the plant ",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1009,
+      "filename": "1009.jpg",
+      "path": "1009.jpg",
+      "caption": "Simplestem Bur-Reed – it may create extensive growths on suitable places",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1010,
+      "filename": "1010.jpg",
+      "path": "1010.jpg",
+      "caption": "Simplestem Bur-Reed – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 7
+    }
+  ]
+}

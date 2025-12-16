@@ -1,0 +1,32 @@
+{
+  "id": 106,
+  "name": "Kosatec žlutý",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 154,
+      "filename": "154.jpg",
+      "path": "154.jpg",
+      "caption": "Kosatec žlutý – květy jsou jasně žluté s fialově hnědým žilkováním",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 155,
+      "filename": "155.jpg",
+      "path": "155.jpg",
+      "caption": "Kosatec žlutý – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 156,
+      "filename": "156.jpg",
+      "path": "156.jpg",
+      "caption": "Kosatec žlutý – kolorovaná kresba, autor Josef Weiser",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}Stránka nenalezena{% endblock %}
+
+{% block content %}
+<div class="error-container">
+    <h1 class="error-title">404</h1>
+    <p class="error-message">
+        Požadovaná stránka nebyla nalezena.
+    </p>
+    <a href="/"
+       hx-get="/"
+       hx-target="#main-content"
+       hx-swap="innerHTML show:window:top"
+       hx-push-url="true"
+       class="btn btn-primary">
+        Zpět na úvodní stránku
+    </a>
+</div>
+{% endblock %}

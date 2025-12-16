@@ -1,0 +1,80 @@
+{
+  "id": 472,
+  "name": "Černá Voda",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1156,
+      "filename": "1156.jpg",
+      "path": "1156.jpg",
+      "caption": "Panorama of Nový pit 5201 at Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1157,
+      "filename": "1157.jpg",
+      "path": "1157.jpg",
+      "caption": "Extraction of granite blocks in pit 5201 at Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1158,
+      "filename": "1158.jpg",
+      "path": "1158.jpg",
+      "caption": "Flooded old pit under a slag heap of Nový pit 5201, Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1159,
+      "filename": "1159.jpg",
+      "path": "1159.jpg",
+      "caption": "Flooded part of pit 5201, Černá Voda <br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1160,
+      "filename": "1160.jpg",
+      "path": "1160.jpg",
+      "caption": "Manual dressing of granite kerbs, pit 5201, Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1161,
+      "filename": "1161.jpg",
+      "path": "1161.jpg",
+      "caption": "Production of granite cubes, pit 5201, Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1162,
+      "filename": "1162.jpg",
+      "path": "1162.jpg",
+      "caption": "Split off block of granite, pit 5201, Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1163,
+      "filename": "1163.jpg",
+      "path": "1163.jpg",
+      "caption": "Small quartz vein on a granite fussile with metallic grey molybdenite and rare white powellite, reddish limonite, pit 5201, Černá Voda<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1164,
+      "filename": "1164.jpg",
+      "path": "1164.jpg",
+      "caption": "Grains of light green fluorite with zeolites on a granite fussile, pit 5201, Černá Voda <br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 439,
+  "name": "Soft Rush",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1030,
+      "filename": "1030.jpg",
+      "path": "1030.jpg",
+      "caption": "Soft Rush – perennial, densely clumpy herb, growing on damp to wet places",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1031,
+      "filename": "1031.jpg",
+      "path": "1031.jpg",
+      "caption": "Soft Rush – the bract is similar to the stem and continues its growth in the direction of the stem, the inflorescence thus seems to be lateral",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1032,
+      "filename": "1032.jpg",
+      "path": "1032.jpg",
+      "caption": "Soft Rush – small brown flowers are arranged in a sparse, loose inflorescence",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1033,
+      "filename": "1033.jpg",
+      "path": "1033.jpg",
+      "caption": "Soft Rush – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

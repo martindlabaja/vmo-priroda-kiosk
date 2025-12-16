@@ -1,0 +1,38 @@
+<div class="home-container">
+    <!-- Museum Title (Left Side) -->
+    <div class="home-title">
+        <h1>VLASTIVĚDNÉ MUZEUM V OLOMOUCI</h1>
+        <h2>Příroda Olomouckého kraje</h2>
+    </div>
+
+    <!-- Navigation Tiles (Right Side) -->
+    <div class="home-tiles">
+        {% set sections = menu.get('root', []) %}
+
+        {% for section in sections[:3] %}
+        <!-- Main Section Tiles (Geologie, Ziva priroda, Chranena uzemi) -->
+        <a href="/{{ section.url }}"
+           hx-get="/{{ section.url }}"
+           hx-target="#main-content"
+           hx-swap="innerHTML show:window:top"
+           hx-push-url="true"
+           class="home-tile home-tile-{{ loop.index }}"
+           style="background-image: url('/images/menu/{{ section.id }}.jpg');">
+            <span class="home-tile-label">{{ section.name }}</span>
+        </a>
+        {% endfor %}
+
+        {% for section in sections[3:5] %}
+        <!-- Secondary Tiles (Pouzita literatura, O expozici) -->
+        <a href="/{{ section.url }}"
+           hx-get="/{{ section.url }}"
+           hx-target="#main-content"
+           hx-swap="innerHTML show:window:top"
+           hx-push-url="true"
+           class="home-tile home-tile-{{ loop.index + 3 }}"
+           style="background-image: url('/images/menu/{{ section.id }}.jpg');">
+            <span class="home-tile-label">{{ section.name }}</span>
+        </a>
+        {% endfor %}
+    </div>
+</div>

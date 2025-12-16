@@ -1,0 +1,32 @@
+{
+  "id": 123,
+  "name": "Sítina rozkladitá",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 214,
+      "filename": "214.jpg",
+      "path": "214.jpg",
+      "caption": "Sítina rozkladitá – vytrvalá, hustě trsnatá bylina rostoucí na vlhkých až zamokřených místech",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 215,
+      "filename": "215.jpg",
+      "path": "215.jpg",
+      "caption": "Sítina rozkladitá – listen je podobný lodyze a ve svém růstu pokračuje ve směru lodyhy, takže se květenství jeví jako postranní",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 216,
+      "filename": "216.jpg",
+      "path": "216.jpg",
+      "caption": "Sítina rozkladitá – drobné hnědé květy jsou uspořádány v řídkém rozkladitém květenství",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

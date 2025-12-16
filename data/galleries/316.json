@@ -1,0 +1,24 @@
+{
+  "id": 316,
+  "name": "Jedle bělokorá",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 793,
+      "filename": "793.jpg",
+      "path": "793.jpg",
+      "caption": "Jedle bělokorá – tmavě zelené jehlice mají na spodní straně dva bílé pruhy; samčí květenství jsou kulovitá, žluto-růžová, v úžlabí jehlic na koncích větévek",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 794,
+      "filename": "794.jpg",
+      "path": "794.jpg",
+      "caption": "Jedle bělokorá – borka hladká, tmavě šedá, u starších stromů rozpukaná",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

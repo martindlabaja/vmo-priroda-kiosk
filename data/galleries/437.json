@@ -1,0 +1,32 @@
+{
+  "id": 437,
+  "name": "Purple Loosestrife",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1025,
+      "filename": "1025.jpg",
+      "path": "1025.jpg",
+      "caption": "Purple Loosestrife – up to 200 cm tall herb growing on wet meadows",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1026,
+      "filename": "1026.jpg",
+      "path": "1026.jpg",
+      "caption": "Purple Loosestrife – red-violet flowers are arranged in 10–20 cm long spikes",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1027,
+      "filename": "1027.jpg",
+      "path": "1027.jpg",
+      "caption": "Purple Loosestrife – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 2
+    }
+  ]
+}

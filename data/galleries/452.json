@@ -1,0 +1,24 @@
+{
+  "id": 452,
+  "name": "European Silver Fir",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1072,
+      "filename": "1072.jpg",
+      "path": "1072.jpg",
+      "caption": "European Silver Fir – dark green needles have two light stripes on the lower side; male inflorescences are globular, yellow-pink, in needle axils at the ends of the branches ",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1073,
+      "filename": "1073.jpg",
+      "path": "1073.jpg",
+      "caption": "European Silver Fir – the bark is smooth, dark grey, cracked in older trees",
+      "author": "",
+      "order": 1
+    }
+  ]
+}

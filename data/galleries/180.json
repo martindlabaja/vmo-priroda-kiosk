@@ -1,0 +1,80 @@
+{
+  "id": 180,
+  "name": "Malá Morávka – Javorový vrch",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 528,
+      "filename": "528.jpg",
+      "path": "528.jpg",
+      "caption": "Povrchová železorudná dobývka u Jelení cesty<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 529,
+      "filename": "529.jpg",
+      "path": "529.jpg",
+      "caption": "Pohled do dobývky u Jelení cesty z povrchu<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 530,
+      "filename": "530.jpg",
+      "path": "530.jpg",
+      "caption": "Pohled z  dobývky u Jelení cesty do terénu<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 531,
+      "filename": "531.jpg",
+      "path": "531.jpg",
+      "caption": "Dobývka u Jelení cesty - skalní okno<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 532,
+      "filename": "532.jpg",
+      "path": "532.jpg",
+      "caption": "Základka hlušiny v dobývce<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 533,
+      "filename": "533.jpg",
+      "path": "533.jpg",
+      "caption": "Pohled do podzemní části železorudného dolu<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 534,
+      "filename": "534.jpg",
+      "path": "534.jpg",
+      "caption": "Nápisy vytesané do stěny dobývky<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 535,
+      "filename": "535.jpg",
+      "path": "535.jpg",
+      "caption": "Zajištění komínů a větracích šachet mřížemi<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 536,
+      "filename": "536.jpg",
+      "path": "536.jpg",
+      "caption": "Železná ruda – jemně zrnitý magnetit s menším podílem hematitu (na fotografii není patrno), tmavě šedozelený chlorit a bílé křemen-karbonátové žilky.<br /> Foto P. Novotný",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

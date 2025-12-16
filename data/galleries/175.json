@@ -1,0 +1,40 @@
+{
+  "id": 175,
+  "name": "Rešovské vodopády",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 482,
+      "filename": "482.jpg",
+      "path": "482.jpg",
+      "caption": "Rešovské vodopády – pohled na spodní úsek kaskády s bloky metavulkanitů v řečišti ř. Huntavy. <br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 483,
+      "filename": "483.jpg",
+      "path": "483.jpg",
+      "caption": "Rešovské vodopády – hlavní kaskáda vodopádu. Jejich skalní stupeň a pravobřežní stěna je budována křemennými keratofyry. <br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 484,
+      "filename": "484.jpg",
+      "path": "484.jpg",
+      "caption": "Rešovské vodopády – menší kaskády v řečišti Huntavy nad hlavním stupněm vodopádu. <br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 485,
+      "filename": "485.jpg",
+      "path": "485.jpg",
+      "caption": "Poblíž Rešovských vodopádů – zasucené ústí staré, ručně sekané štoly na železnou rudu. <br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

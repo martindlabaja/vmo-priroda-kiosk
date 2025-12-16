@@ -1,0 +1,19 @@
+MISSING IMAGES DETAILED REPORT
+======================================================================
+
+MISSING TILE IMAGES
+----------------------------------------
+
+MISSING HEADER IMAGES
+----------------------------------------
+
+MISSING GALLERY IMAGES
+----------------------------------------
+Gallery: 31 - Nálezy raně středověkých zbraní a výzbroje
+Image: novy.jpg
+Expected path: /mnt/d/Muzeum/PrirodaTouch/extracted-data/wamp/www/data-fotogalerie/novy.jpg
+
+Gallery: 31 - Nálezy raně středověkých zbraní a výzbroje
+Image: novy.jpg
+Expected path: /mnt/d/Muzeum/PrirodaTouch/extracted-data/wamp/www/data-fotogalerie/novy.jpg
+

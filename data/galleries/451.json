@@ -1,0 +1,48 @@
+{
+  "id": 451,
+  "name": "European Larch",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1066,
+      "filename": "1066.jpg",
+      "path": "1066.jpg",
+      "caption": "European Larch – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1067,
+      "filename": "1067.jpg",
+      "path": "1067.jpg",
+      "caption": "European Larch – young cones are green-pink, turn brown when ripe ",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1071,
+      "filename": "1071.jpg",
+      "path": "1071.jpg",
+      "caption": "European Larch – male inflorescences are small, yellow, pendant",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1069,
+      "filename": "1069.jpg",
+      "path": "1069.jpg",
+      "caption": "European Larch – female inflorescences are carmine red, erect",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1070,
+      "filename": "1070.jpg",
+      "path": "1070.jpg",
+      "caption": "European Larch – the bark is red-brown, cracked and scaly ",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

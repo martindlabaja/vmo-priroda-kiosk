@@ -1,0 +1,80 @@
+{
+  "id": 179,
+  "name": "Malá Morávka – Praděd",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 519,
+      "filename": "519.jpg",
+      "path": "519.jpg",
+      "caption": "Praděd od Horní Moravice<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 520,
+      "filename": "520.jpg",
+      "path": "520.jpg",
+      "caption": "Praděd od Dlouhých strání<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 521,
+      "filename": "521.jpg",
+      "path": "521.jpg",
+      "caption": "Praděd od Mnišských jam<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 522,
+      "filename": "522.jpg",
+      "path": "522.jpg",
+      "caption": "Vrchol Pradědu – klasická lokalita anatasu z r. 1965<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 523,
+      "filename": "523.jpg",
+      "path": "523.jpg",
+      "caption": "\tNa Tabulových skalách byl anatas vzácně nalezen počátkem 20. století<br /> Foto P. Novotný ",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 524,
+      "filename": "524.jpg",
+      "path": "524.jpg",
+      "caption": "Krystal anatasu 6 mm, Praděd – sběr 1965<br /> Foto J. Zimák",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 525,
+      "filename": "525.jpg",
+      "path": "525.jpg",
+      "caption": "V tomto postavení krystalu anatasu lze pozorovat slabé prosvítání krystalu (velmi tmavě modrá barva) <br /> Foto J. Zimák",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 526,
+      "filename": "526.jpg",
+      "path": "526.jpg",
+      "caption": "Krystal anatasu zvětšený 16x, Praděd<br /> Foto J. Jirásek",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 527,
+      "filename": "527.jpg",
+      "path": "527.jpg",
+      "caption": "Bílé krystaly aduláru do 11 mm, Praděd<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

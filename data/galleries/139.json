@@ -1,0 +1,24 @@
+{
+  "id": 139,
+  "name": "Ještěrka obecná",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 245,
+      "filename": "245.jpg",
+      "path": "245.jpg",
+      "caption": "Ještěrka obecná - samec",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 247,
+      "filename": "247.jpg",
+      "path": "247.jpg",
+      "caption": "Ještěrka obecná - samice",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

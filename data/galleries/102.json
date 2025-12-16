@@ -1,0 +1,40 @@
+{
+  "id": 102,
+  "name": "Pupava obecná",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 136,
+      "filename": "136.jpg",
+      "path": "136.jpg",
+      "caption": "Pupava obecná – chudě větvená lodyha s ostnitými listy nese koncové úbory",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 137,
+      "filename": "137.jpg",
+      "path": "137.jpg",
+      "caption": "Pupava obecná – v úborech jsou uspořádány drobné, červenofialovo-žluté květy; úbory mají 1–2 cm v průměru a lemují je slámově žluté listeny",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 138,
+      "filename": "138.jpg",
+      "path": "138.jpg",
+      "caption": "Pupava obecná – listeny lemující úbor se za vlhka zavírají",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 139,
+      "filename": "139.jpg",
+      "path": "139.jpg",
+      "caption": "Pupava obecná – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

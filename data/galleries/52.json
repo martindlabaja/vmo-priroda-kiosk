@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "name": "Vroubenka americká",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 48,
+      "filename": "48.jpg",
+      "path": "48.jpg",
+      "caption": "Vroubenka americká",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

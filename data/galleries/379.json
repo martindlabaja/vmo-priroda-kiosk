@@ -1,0 +1,56 @@
+{
+  "id": 379,
+  "name": "Hynčice pod Sušinou",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1496,
+      "filename": "1496.jpg",
+      "path": "1496.jpg",
+      "caption": "Spodní štola na těžbu antimonitu, Mlýnský vrch<br />Foto P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1497,
+      "filename": "1497.jpg",
+      "path": "1497.jpg",
+      "caption": "Část haldy horní štoly pro těžbu antimonitu, Mlýnský vrch<br />Foto P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1498,
+      "filename": "1498.jpg",
+      "path": "1498.jpg",
+      "caption": "Severní štola pro průzkum Pb-Cu zrudnění, vzhledem k těžebnímu prostoru je situována na protější straně údolí<br />Foto P. Novotný",
+      "author": "",
+      "order": 3
+    },
+    {
+      "id": 1499,
+      "filename": "1499.jpg",
+      "path": "1499.jpg",
+      "caption": "Jehlicovitý agregát antimonitu 5 cm, dobývky na Mlýnském vrchu<br />Foto P. Rozsíval",
+      "author": "",
+      "order": 4
+    },
+    {
+      "id": 1500,
+      "filename": "1500.jpg",
+      "path": "1500.jpg",
+      "caption": "Stibikonit – žluté jehlicovité pseudomorfózy po antimonitu; antimonit – kovově šedé jehlicovité krystaly, vzorek 3 cm, halda dolu na Mlýnském vrchu<br />Foto V. Toegel",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1501,
+      "filename": "1501.jpg",
+      "path": "1501.jpg",
+      "caption": "Valentinit – bílé jehlicovité a stébelnaté krystalky do 3 mm na puklině antimonitu, halda dolu na Mlýnském vrchu<br />Foto V. Toegel",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

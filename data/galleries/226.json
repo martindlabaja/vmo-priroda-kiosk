@@ -1,0 +1,32 @@
+{
+  "id": 226,
+  "name": "Krahujec obecný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 643,
+      "filename": "643.jpg",
+      "path": "643.jpg",
+      "caption": "Krahujec obecný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 645,
+      "filename": "645.jpg",
+      "path": "645.jpg",
+      "caption": "Krahujec obecný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 646,
+      "filename": "646.jpg",
+      "path": "646.jpg",
+      "caption": "Krahujec obecný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

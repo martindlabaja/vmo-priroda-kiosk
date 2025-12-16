@@ -1,0 +1,51 @@
+<nav class="sidebar-menu">
+    <h3 class="sidebar-title">Navigace</h3>
+
+    {% if current_item and current_item.parent %}
+    <!-- Back to parent -->
+    <a href="/{{ current_item.parent.url }}"
+       hx-get="/{{ current_item.parent.url }}"
+       hx-target="#main-content"
+       hx-swap="innerHTML show:window:top"
+       hx-push-url="true"
+       class="sidebar-back-btn">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+            <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+        </svg>
+        {{ current_item.parent.name }}
+    </a>
+    {% endif %}
+
+    <!-- Menu Items -->
+    <ul class="sidebar-menu-list">
+        {% for item in menu.get('root', []) %}
+        <li class="sidebar-menu-item-wrapper">
+            <a href="/{{ item.url }}"
+               hx-get="/{{ item.url }}"
+               hx-target="#main-content"
+               hx-swap="innerHTML show:window:top"
+               hx-push-url="true"
+               class="sidebar-menu-item {{ 'active' if item.url == current_url else '' }}">
+                {{ item.name }}
+            </a>
+
+            {% if item.children and item.url in current_url %}
+            <ul class="sidebar-submenu">
+                {% for child in item.children %}
+                <li>
+                    <a href="/{{ child.url }}"
+                       hx-get="/{{ child.url }}"
+                       hx-target="#main-content"
+                       hx-swap="innerHTML show:window:top"
+                       hx-push-url="true"
+                       class="sidebar-menu-item sidebar-submenu-item {{ 'active' if child.url == current_url else '' }}">
+                        {{ child.name }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</nav>

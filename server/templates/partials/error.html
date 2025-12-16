@@ -1,0 +1,14 @@
+<div class="error-container">
+    <h1 class="error-title">{{ error or 'Chyba' }}</h1>
+    <p class="error-message">
+        Omlouváme se, došlo k chybě při načítání obsahu.
+    </p>
+    <a href="/"
+       hx-get="/"
+       hx-target="#main-content"
+       hx-swap="innerHTML show:window:top"
+       hx-push-url="true"
+       class="btn btn-primary">
+        Zpět na úvodní stránku
+    </a>
+</div>

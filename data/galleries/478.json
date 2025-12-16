@@ -1,0 +1,56 @@
+{
+  "id": 478,
+  "name": "Petrov nad Desnou – Rauchbeerstein",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1219,
+      "filename": "1219.jpg",
+      "path": "1219.jpg",
+      "caption": "Locality viewed from Sobotín – it is situated under the peak<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1220,
+      "filename": "1220.jpg",
+      "path": "1220.jpg",
+      "caption": "View from the locality in the direction of Červenohorské Saddleback<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1221,
+      "filename": "1221.jpg",
+      "path": "1221.jpg",
+      "caption": "Research on the Rauchbeerstein locality – uncovered rock outcrop<br /> Photo by J. Král",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1222,
+      "filename": "1222.jpg",
+      "path": "1222.jpg",
+      "caption": "Slag heap of rocks extracted during trial works<br /> Photo by J. Král",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1223,
+      "filename": "1223.jpg",
+      "path": "1223.jpg",
+      "caption": "Smaller samples can occasionally be found including almandine (crystal 20 mm) or staurolite<br /> Photo by J. Král",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1224,
+      "filename": "1224.jpg",
+      "path": "1224.jpg",
+      "caption": "Shale fragments with albite crystals (white up to 4 mm) and rutile (brown-red compound needle crystals of 2 mm) come from the older collections south-west of the locality<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

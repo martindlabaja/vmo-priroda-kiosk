@@ -1,0 +1,48 @@
+{
+  "id": 314,
+  "name": "Smrk ztepilý",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 787,
+      "filename": "787.jpg",
+      "path": "787.jpg",
+      "caption": "Smrk ztepilý – šišky jsou válcovité, světle hnědé, 12–16 cm dlouhé, dolů visící",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 788,
+      "filename": "788.jpg",
+      "path": "788.jpg",
+      "caption": "Smrk ztepilý – samičí květy jsou v podlouhlých, růžově-červených šišticích",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 789,
+      "filename": "789.jpg",
+      "path": "789.jpg",
+      "caption": "Smrk ztepilý – samčí květenství jsou karmínově červená",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 790,
+      "filename": "790.jpg",
+      "path": "790.jpg",
+      "caption": "Smrk ztepilý – borka hnědavě červená, jemně šupinatá",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 791,
+      "filename": "791.jpg",
+      "path": "791.jpg",
+      "caption": "Smrk ztepilý – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 141,
+  "name": "Slavík obecný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 250,
+      "filename": "250.jpg",
+      "path": "250.jpg",
+      "caption": "Slavík obecný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

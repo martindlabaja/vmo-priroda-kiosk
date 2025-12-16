@@ -1,0 +1,48 @@
+{
+  "id": 415,
+  "name": "Persian walnut",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 961,
+      "filename": "961.jpg",
+      "path": "961.jpg",
+      "caption": "Persian Walnut – male flowers are in 3–10 cm long, yellow-green catkins",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 962,
+      "filename": "962.jpg",
+      "path": "962.jpg",
+      "caption": "Persian Walnut – female flowers are inconspicuous, usually 2-5 are clustered, they have distinct yellow stigmas",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 960,
+      "filename": "960.jpg",
+      "path": "960.jpg",
+      "caption": "Persian Walnut – sprouting leaves are reddish, there are scars on the branches left by last year’s leaves",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 963,
+      "filename": "963.jpg",
+      "path": "963.jpg",
+      "caption": "Persian Walnut – the bark is grey, cracked in older trees",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 964,
+      "filename": "964.jpg",
+      "path": "964.jpg",
+      "caption": "Persian Walnut – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 51,
+  "name": "Štěnice domácí",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 47,
+      "filename": "47.jpg",
+      "path": "47.jpg",
+      "caption": "Štěnice domácí, foto Piotr Naskrecki",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

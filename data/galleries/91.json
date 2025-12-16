@@ -1,0 +1,16 @@
+{
+  "id": 91,
+  "name": "Kopr vonný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 573,
+      "filename": "573.jpg",
+      "path": "573.jpg",
+      "caption": "Kopr vonný – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

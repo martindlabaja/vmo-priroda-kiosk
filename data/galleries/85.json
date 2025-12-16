@@ -1,0 +1,24 @@
+{
+  "id": 85,
+  "name": "Kobylka zelená",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 94,
+      "filename": "94.jpg",
+      "path": "94.jpg",
+      "caption": "Kobylka zelená",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 95,
+      "filename": "95.jpg",
+      "path": "95.jpg",
+      "caption": "Kobylka zelená - samice kladoucí vajíčka",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

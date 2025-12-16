@@ -1,0 +1,80 @@
+{
+  "id": 383,
+  "name": "Zlaté Hory – minerály",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1463,
+      "filename": "1463.jpg",
+      "path": "1463.jpg",
+      "caption": "Rudy u Zlatých Hor byly zpřístupněny důlními díly, jejichž délka přesáhla 100 km; na fotografii je ústí Edelštejnské štoly<br />Foto P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1464,
+      "filename": "1464.jpg",
+      "path": "1464.jpg",
+      "caption": "Vyzděný světlík Zámecké štoly<br />Foto P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1465,
+      "filename": "1465.jpg",
+      "path": "1465.jpg",
+      "caption": "Štola Maria Hilfe 2, nejstarší důlní chodba na Zlatohorsku<br />Foto P. Rozsíval",
+      "author": "",
+      "order": 3
+    },
+    {
+      "id": 1466,
+      "filename": "1466.jpg",
+      "path": "1466.jpg",
+      "caption": "Založená část dobývky v Poštovní štole, modrý – minerál alofán<br />Foto J. Král",
+      "author": "",
+      "order": 4
+    },
+    {
+      "id": 1467,
+      "filename": "1467.jpg",
+      "path": "1467.jpg",
+      "caption": "Modře zbarvený strop Modré štoly<br />Foto J. Král",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1468,
+      "filename": "1468.jpg",
+      "path": "1468.jpg",
+      "caption": "Kůry modrého alofánu na čelbě rozrážky, Modrá štola<br />Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1469,
+      "filename": "1469.jpg",
+      "path": "1469.jpg",
+      "caption": "Původní chodba (nahoře) a nově vyražená část (dole, z 60. let 20. století) Modré štoly<br />Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1470,
+      "filename": "1470.jpg",
+      "path": "1470.jpg",
+      "caption": "Průzkum rudní žíly s bohatým výskytem sekundárních minerálů (modrá barva), historické dobývky Modré štoly<br />Foto J. Král",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1471,
+      "filename": "1471.jpg",
+      "path": "1471.jpg",
+      "caption": "Sekundární minerály vznikají i v zatopených dobývkách, štola Sarkander<br />Foto P. Rozsíval",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

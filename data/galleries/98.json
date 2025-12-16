@@ -1,0 +1,56 @@
+{
+  "id": 98,
+  "name": "Chrpa modrá",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 117,
+      "filename": "117.jpg",
+      "path": "117.jpg",
+      "caption": "Chrpa modrá – rostlina rostoucí na okrajích polí",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 118,
+      "filename": "118.jpg",
+      "path": "118.jpg",
+      "caption": "Chrpa modrá – květy jsou uspořádány v úborech; ve středu úboru jsou květy modrofialové, na okrajích výrazně modré",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 119,
+      "filename": "119.jpg",
+      "path": "119.jpg",
+      "caption": "Chrpa modrá – květy jsou uspořádány v úborech; ve středu úboru jsou květy modrofialové, na okrajích výrazně modré",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 120,
+      "filename": "120.jpg",
+      "path": "120.jpg",
+      "caption": "Chrpa modrá – bělokvětý exemplář",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 121,
+      "filename": "121.jpg",
+      "path": "121.jpg",
+      "caption": "Chrpa modrá – kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 122,
+      "filename": "122.jpg",
+      "path": "122.jpg",
+      "caption": "Chrpa modrá – kolorovaná kresba, autor Josef Weiser",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

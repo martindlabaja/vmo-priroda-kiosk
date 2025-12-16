@@ -1,0 +1,56 @@
+{
+  "id": 159,
+  "name": "Petrov nad Desnou – Rauchbeerstein",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 396,
+      "filename": "396.jpg",
+      "path": "396.jpg",
+      "caption": "Lokalita od Sobotína – je situována pod vrcholem<br /> Foto P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 397,
+      "filename": "397.jpg",
+      "path": "397.jpg",
+      "caption": "Pohled z lokality k Červenohorskému sedlu<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 398,
+      "filename": "398.jpg",
+      "path": "398.jpg",
+      "caption": "Průzkum na lokalitě Rauchbeerstein – odkrytý skalní výchoz<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 399,
+      "filename": "399.jpg",
+      "path": "399.jpg",
+      "caption": "Halda z horniny vytěžené při průzkumných pracích<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 400,
+      "filename": "400.jpg",
+      "path": "400.jpg",
+      "caption": "V širokém okolí lze příležitostně nalézt drobnější vzorek s almandinem (krystal 20 mm) nebo staurolitem<br /> Foto J. Král",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 401,
+      "filename": "401.jpg",
+      "path": "401.jpg",
+      "caption": "Ze starších sběrů jz. od lokality pochází úlomek břidlice s krystalky albitu (bílé do 4 mm) a rutilem (hnědočervená srostlice jehličkovitých krystalků o délce 2 mm)<br /> Foto P. Novotný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

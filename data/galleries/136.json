@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "name": "Otakárek ovocný",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 242,
+      "filename": "242.jpg",
+      "path": "242.jpg",
+      "caption": "Otakárek ovocný",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

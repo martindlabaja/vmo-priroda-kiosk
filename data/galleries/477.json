@@ -1,0 +1,64 @@
+{
+  "id": 477,
+  "name": "Granátovka",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1212,
+      "filename": "1212.jpg",
+      "path": "1212.jpg",
+      "caption": "\tThe locality is situated in a high spruce forest under the horizon in the left part of the picture<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1213,
+      "filename": "1213.jpg",
+      "path": "1213.jpg",
+      "caption": "\tBodies of quarzites crop out under the locality – collecting locality Weissenstein <br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1214,
+      "filename": "1214.jpg",
+      "path": "1214.jpg",
+      "caption": "Granátovka locality, there are rocks in brash and positions of schist with almandine crystals up to 30 mm in the outcrops (so-called old collections)<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1215,
+      "filename": "1215.jpg",
+      "path": "1215.jpg",
+      "caption": "View of collectors’ diggings, there are quartzite rocks visible in the brash<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1216,
+      "filename": "1216.jpg",
+      "path": "1216.jpg",
+      "caption": "Schist fragments are smaller – collectors endeavoured to find samples with almandine<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1217,
+      "filename": "1217.jpg",
+      "path": "1217.jpg",
+      "caption": "Schist with almandine crystals up to 18 mm, Granátovka<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1218,
+      "filename": "1218.jpg",
+      "path": "1218.jpg",
+      "caption": "Rutile crystal up to 13 mm in a quartz vein occurring in quartzites of the Weissenstein locality<br /> Photo by J. Král",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

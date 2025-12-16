@@ -1,0 +1,80 @@
+{
+  "id": 479,
+  "name": "Plinkout – Na šachtách",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1225,
+      "filename": "1225.jpg",
+      "path": "1225.jpg",
+      "caption": "Mlází – mining space with numerous relics of iron ore mining<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1226,
+      "filename": "1226.jpg",
+      "path": "1226.jpg",
+      "caption": "Trial pits distant only several meters from one other provide evidence of the foundation of the mines long-ago<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1227,
+      "filename": "1227.jpg",
+      "path": "1227.jpg",
+      "caption": "Additional trial pits in the mining field<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1228,
+      "filename": "1228.jpg",
+      "path": "1228.jpg",
+      "caption": "Drift of a deeper reach as demonstrated by the size of the mine<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1229,
+      "filename": "1229.jpg",
+      "path": "1229.jpg",
+      "caption": "Relics of brashed-over open stopes inaccessible due to forest growth<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1230,
+      "filename": "1230.jpg",
+      "path": "1230.jpg",
+      "caption": "Slag heaps surrounding trial pits and stopes<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1231,
+      "filename": "1231.jpg",
+      "path": "1231.jpg",
+      "caption": "Brashed-in opening and opening part of the Vyhlídka drift 2<br /> Photo by P. Novotný",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 1232,
+      "filename": "1232.jpg",
+      "path": "1232.jpg",
+      "caption": "Active insinking in a caved-in trial pit<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 7
+    },
+    {
+      "id": 1233,
+      "filename": "1233.jpg",
+      "path": "1233.jpg",
+      "caption": "Active cave-in in a stope situated near the surface<br /> Photo by P. Rozsíval",
+      "author": "",
+      "order": 8
+    }
+  ]
+}

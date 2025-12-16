@@ -1,0 +1,48 @@
+{
+  "id": 442,
+  "name": "Cypress-like Sedge",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1038,
+      "filename": "1038.jpg",
+      "path": "1038.jpg",
+      "caption": "Cypress-like Sedge – it grows on banks of stagnant and running waters in floodplain forests ",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1039,
+      "filename": "1039.jpg",
+      "path": "1039.jpg",
+      "caption": "Cypress-like Sedge – perennial herb forming clumps",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1040,
+      "filename": "1040.jpg",
+      "path": "1040.jpg",
+      "caption": "Cypress-like Sedge – flowers are arranged in spikes – one terminal spike is male, other 3-4 lateral are female",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1041,
+      "filename": "1041.jpg",
+      "path": "1041.jpg",
+      "caption": "Cypress-like Sedge – the fruits are bloated three-sided yellow-green perigynia, spikes with perigynia are pendant ",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1042,
+      "filename": "1042.jpg",
+      "path": "1042.jpg",
+      "caption": "Cypress-like Sedge – colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 446,
+  "name": "European Beech",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 1047,
+      "filename": "1047.jpg",
+      "path": "1047.jpg",
+      "caption": "European Beech – it is well-known due to its fruits; the spiny cupule cracks by four flaps and releases nuts – brown, shiny, sharp three-sided achenia ",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1048,
+      "filename": "1048.jpg",
+      "path": "1048.jpg",
+      "caption": "European Beech – young leaves are shiny, fresh green, with long whitish cilia on the margin",
+      "author": "",
+      "order": 1
+    },
+    {
+      "id": 1049,
+      "filename": "1049.jpg",
+      "path": "1049.jpg",
+      "caption": "European Beech – yellowish bundles of small male flowers",
+      "author": "",
+      "order": 2
+    },
+    {
+      "id": 1050,
+      "filename": "1050.jpg",
+      "path": "1050.jpg",
+      "caption": "European Beech – the bark is silver-grey, smooth even in old trees",
+      "author": "",
+      "order": 5
+    },
+    {
+      "id": 1051,
+      "filename": "1051.jpg",
+      "path": "1051.jpg",
+      "caption": "European Beech – leaves, flowers and fruits; colorized drawing by Josef Dohnal",
+      "author": "",
+      "order": 5
+    }
+  ]
+}

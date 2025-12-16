@@ -1,0 +1,16 @@
+{
+  "id": 114,
+  "name": "Zelené řasy",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 772,
+      "filename": "772.jpg",
+      "path": "772.jpg",
+      "caption": "Kadeřnatka (Ulothrix) má jednoduchá nevětvená vlákna, uvnitř buněk je korýtkovitý chloroplast. <br />Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 109,
+  "name": "Sinice",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 158,
+      "filename": "158.jpg",
+      "path": "158.jpg",
+      "caption": "Chroococcus patří mezi jednobuněčné sinice. Rozmnožují se výhradně nepohlavně, a to prostým dělením buněk, odškrcováním buněk (exocytů) a odškrcováním kousků vláken (hormogonií). Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 159,
+      "filename": "159.jpg",
+      "path": "159.jpg",
+      "caption": "V bahně vegetují i vláknité typy sinic, např. Komvophoron, Pseudanabaena, Oscillatoria, Phormidium. Na obrázku jsou dva různé druhy rodu Komvophoron, spolu s krásnoočkem a rozsivkou. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 160,
+      "filename": "160.jpg",
+      "path": "160.jpg",
+      "caption": "Učebnicovým příkladem bentických sinic je Oscillatoria – drkalka. Pohybuje se drkavým pohybem. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 161,
+      "filename": "161.jpg",
+      "path": "161.jpg",
+      "caption": "Drkalka se rozmnožuje několikabuněčnými kousky vláken, tzv. hormogoniemi. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 162,
+      "filename": "162.jpg",
+      "path": "162.jpg",
+      "caption": "Sinice Nostoc vegetuje na břehu rybníka ve vlhké půdě. Specialitou této sinice je schopnost fixovat dusík ze vzduchu. Foto Doc. Petr Hašler",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 163,
+      "filename": "163.jpg",
+      "path": "163.jpg",
+      "caption": "Rod Microcystis patří mezi sinice, které se výrazně podílí na tzv. vodním květu. Tmavé tečky v buňkách jsou plynné váčky, které sinice nadnáší. Foto Prof. Aloisie Poulíčková",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 164,
+      "filename": "164.jpg",
+      "path": "164.jpg",
+      "caption": "Anabaena je rod vláknitých sinic. Malé buňky se zrnitým obsahem jsou vegetativní, velké buňky se zrnitým obsahem zajišťují přežití za nepříznivých podmínek a buňky s průhledným obsahem slouží k získávání dusíku ze vzduchu. Foto Doc. Petr Hašler",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

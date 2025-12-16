@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "name": "Hrdlička zahradní",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 62,
+      "filename": "62.jpg",
+      "path": "62.jpg",
+      "caption": "Hrdlička zahradní",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

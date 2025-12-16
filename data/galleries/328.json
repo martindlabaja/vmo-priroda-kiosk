@@ -1,0 +1,40 @@
+{
+  "id": 328,
+  "name": "Jeřáb ptačí",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 826,
+      "filename": "826.jpg",
+      "path": "826.jpg",
+      "caption": "Jeřáb ptačí – listy, květy a plody; kolorovaná kresba, autor Josef Dohnal",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 827,
+      "filename": "827.jpg",
+      "path": "827.jpg",
+      "caption": "Jeřáb ptačí – krémově bílé květy jsou uspořádány v bohatých vzpřímených latách",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 828,
+      "filename": "828.jpg",
+      "path": "828.jpg",
+      "caption": "Jeřáb ptačí – plody (jeřabiny) jsou červené, jedlé, ale většinou hořké malvice, kulaté, asi 7 mm velké",
+      "author": "",
+      "order": 6
+    },
+    {
+      "id": 829,
+      "filename": "829.jpg",
+      "path": "829.jpg",
+      "caption": "Jeřáb ptačí – borka je stříbřitě šedá, s jemnými trhlinami",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

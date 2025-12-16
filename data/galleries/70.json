@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "name": "Suchomilka obecná",
+  "menu_id": null,
+  "description": null,
+  "images": [
+    {
+      "id": 66,
+      "filename": "66.jpg",
+      "path": "66.jpg",
+      "caption": "Suchomilka obecná",
+      "author": "",
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#cc141c">
+
+    <title>{% block title %}Příroda Olomouckého kraje{% endblock %} | Vlastivědné muzeum v Olomouci</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/kiosk.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/touch.css') }}">
+
+    <!-- Google Fonts - Open Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400;1,600&display=swap" rel="stylesheet">
+
+    <!-- HTMX Library -->
+    <script src="{{ url_for('static', filename='js/htmx.min.js') }}"></script>
+
+    <!-- HTMX Configuration -->
+    <script>
+        htmx.config.defaultSwapStyle = 'innerHTML';
+        htmx.config.historyCacheSize = 0;
+        htmx.config.refreshOnHistoryMiss = true;
+        htmx.config.useTemplateFragments = true;
+    </script>
+
+    {% block head %}{% endblock %}
+</head>
+<body data-inactivity-timeout="{{ inactivity_timeout }}"
+      hx-boost="true"
+      hx-indicator="#loading-indicator">
+
+    <!-- Loading Indicator -->
+    <div id="loading-indicator" class="htmx-indicator">
+        <div class="spinner"></div>
+    </div>
+
+    <!-- Main Kiosk Container -->
+    <div id="kiosk-container">
+
+        <!-- Header -->
+        <header id="kiosk-header">
+            <!-- Home Button -->
+            <a href="/"
+               hx-get="/"
+               hx-target="#main-content"
+               hx-swap="innerHTML show:window:top"
+               hx-push-url="true"
+               class="home-button"
+               title="Domů">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="40" height="40">
+                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
+                </svg>
+            </a>
+
+            <!-- Breadcrumb -->
+            <div id="breadcrumb-container">
+                {% block breadcrumb %}{% endblock %}
+            </div>
+
+            <!-- Spacer (where language switcher was) -->
+            <div class="header-spacer"></div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main id="main-content" hx-history-elt>
+            {% block content %}{% endblock %}
+        </main>
+
+    </div>
+
+    <!-- Kiosk Scripts -->
+    <script src="{{ url_for('static', filename='js/kiosk.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/swipe.js') }}"></script>
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>
