@@ -301,6 +301,62 @@ a {
 }
 
 /* =============================================================================
+   Czech Map
+   ============================================================================= */
+
+.map-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: var(--spacing-lg);
+    background: var(--color-bg-main);
+}
+
+.map-container h2 {
+    margin-bottom: var(--spacing-md);
+    color: var(--color-text);
+}
+
+.czech-map {
+    max-width: 100%;
+    max-height: 70vh;
+    width: auto;
+    height: auto;
+}
+
+.czech-map .cr-outline {
+    transition: fill 0.2s ease;
+}
+
+.czech-map .olomouc-region {
+    transition: fill-opacity 0.2s ease;
+}
+
+.czech-map .olomouc-region:hover {
+    fill-opacity: 0.5;
+}
+
+.czech-map .city-label {
+    font-size: 14px;
+    font-weight: 600;
+    fill: var(--color-text);
+}
+
+.czech-map .region-label {
+    font-size: 12px;
+    fill: var(--color-primary);
+    text-anchor: middle;
+}
+
+.map-legend {
+    margin-top: var(--spacing-md);
+    text-align: center;
+    color: var(--color-text-muted);
+}
+
+/* =============================================================================
    Page Layout
    ============================================================================= */
 

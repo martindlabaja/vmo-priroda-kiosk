@@ -114,6 +114,15 @@ def home():
     return render_template('home.html', menu=menu)
 
 
+@app.route('/mapa')
+def map_view():
+    """Map view of Olomouc region."""
+    breadcrumbs = [{'name': 'Mapa', 'url': None}]
+    if request.headers.get('HX-Request'):
+        return render_htmx('partials/czech-map.html', breadcrumbs=breadcrumbs)
+    return render_template('map.html', breadcrumbs=breadcrumbs)
+
+
 @app.route('/<path:page_url>')
 def page(page_url):
     """Dynamic page rendering."""

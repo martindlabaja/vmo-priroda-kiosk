@@ -1,0 +1,28 @@
+<div class="map-container">
+    <h2>Olomoucký kraj</h2>
+    <svg viewBox="0 0 800 600" class="czech-map">
+        <!-- Czech Republic outline (simplified) -->
+        <path class="cr-outline" d="M400,50 L550,80 L650,150 L700,250 L680,350 L600,420 L500,480 L350,500 L200,450 L100,350 L80,250 L120,150 L200,80 L300,50 Z" fill="#e8e8e8" stroke="#ccc" stroke-width="2"/>
+
+        <!-- Olomouc Region (highlighted) -->
+        <path class="olomouc-region" d="M480,180 L550,200 L570,280 L540,350 L470,360 L420,320 L410,250 L440,200 Z"
+              fill="var(--color-primary)"
+              fill-opacity="0.3"
+              stroke="var(--color-primary)"
+              stroke-width="3"
+              style="cursor: pointer;">
+            <title>Olomoucký kraj</title>
+        </path>
+
+        <!-- Olomouc city marker -->
+        <circle cx="480" cy="270" r="8" fill="var(--color-primary)"/>
+        <text x="495" y="275" class="city-label">Olomouc</text>
+
+        <!-- Region labels -->
+        <text x="480" y="320" class="region-label">Olomoucký kraj</text>
+    </svg>
+
+    <div class="map-legend">
+        <p>Vyberte sekci pro zobrazení přírody Olomouckého kraje</p>
+    </div>
+</div>
