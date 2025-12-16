@@ -21,3 +21,8 @@ Thumbs.db
 
 # Local config
 .env
+
+# TODO: Remove after Flask integration is complete
+# Migrated markdown content and images (will be tracked once Flask uses them)
+content/
+images/

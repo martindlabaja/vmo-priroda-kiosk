@@ -291,7 +291,7 @@ a {
 
 .home-tile-4 .home-tile-label,
 .home-tile-5 .home-tile-label {
-    background: transparent;
+    background: var(--color-overlay);
     font-size: clamp(14px, 1.2vw, 18px);
 }
 
