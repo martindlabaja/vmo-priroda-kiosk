@@ -300,13 +300,9 @@ def get_gallery(url: str) -> Optional[Dict[str, Any]]:
                         caption_parts.append(line)
                 caption = ' '.join(caption_parts).strip()
 
-        # Check for thumbnail
-        thumb_file = gallery_path / f"{img_stem}.thumb.jpg"
-        thumb_path = f"{url}/gallery/{img_stem}.thumb.jpg" if thumb_file.exists() else rel_path
-
         images.append({
             'path': rel_path,
-            'thumb': thumb_path,
+            'thumb': rel_path,  # Use main image as thumbnail
             'caption': caption,
             'author': author
         })
