@@ -17,7 +17,7 @@
            hx-swap="innerHTML show:window:top"
            hx-push-url="true"
            class="home-tile home-tile-{{ loop.index }}"
-           style="background-image: url('/images/menu/{{ section.id }}.jpg');">
+           style="background-image: url('/content/{{ section.url }}/header.jpg');">
             <span class="home-tile-label">{{ section.name }}</span>
         </a>
         {% endfor %}
@@ -30,7 +30,7 @@
            hx-swap="innerHTML show:window:top"
            hx-push-url="true"
            class="home-tile home-tile-{{ loop.index + 3 }}"
-           style="background-image: url('/images/menu/{{ section.id }}.jpg');">
+           style="background-image: url('/content/{{ section.url }}/header.jpg');">
             <span class="home-tile-label">{{ section.name }}</span>
         </a>
         {% endfor %}

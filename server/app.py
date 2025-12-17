@@ -1,43 +1,51 @@
 """
 Priroda Kiosk - Museum Touch Screen Application
 Flask application entry point (Czech only)
+
+Uses filesystem-based markdown content from content/ folder.
 """
-from flask import Flask, render_template, request, send_from_directory
+from flask import Flask, render_template, request, send_from_directory, abort
 from pathlib import Path
-import json
+
+# Import content loading functions
+from server.content import (
+    build_menu_tree,
+    get_page_content,
+    get_gallery,
+    get_content_image_path,
+    get_gallery_image_path,
+    CONTENT_DIR
+)
 
 app = Flask(__name__)
 
 # Configuration
-app.config['CONTENT_DIR'] = Path(__file__).parent.parent / 'data'
 app.config['INACTIVITY_TIMEOUT'] = 180000  # 3 minutes in milliseconds
 app.config['ITEMS_PER_PAGE'] = 8  # Tiles per page
 
-
-def load_json(filepath):
-    """Load JSON file and return data."""
-    path = app.config['CONTENT_DIR'] / filepath
-    if path.exists():
-        with open(path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return None
+# Menu cache (rebuilt in debug mode)
+_menu_cache = None
 
 
 def get_menu():
-    """Load menu structure."""
-    return load_json('content/menu.json') or {}
+    """Load menu structure from filesystem."""
+    global _menu_cache
+    if _menu_cache is None or app.debug:
+        _menu_cache = build_menu_tree()
+    return _menu_cache
 
 
-def get_page(url):
-    """Load page content by URL."""
-    url = url.strip('/')
-    url_safe = url.replace('/', '_')
-    return load_json(f'content/pages/cz/{url_safe}.json')
-
-
-def get_gallery(gallery_id):
-    """Load gallery metadata by ID."""
-    return load_json(f'galleries/{gallery_id}.json')
+def find_menu_item(items, url):
+    """Recursively find menu item by URL."""
+    for item in items:
+        if item.get('url') == url:
+            return item
+        children = item.get('children', [])
+        if children:
+            found = find_menu_item(children, url)
+            if found:
+                return found
+    return None
 
 
 def build_breadcrumb(url):
@@ -52,7 +60,7 @@ def build_breadcrumb(url):
 
     for part in parts:
         current_path = f"{current_path}/{part}" if current_path else part
-        item = find_menu_item(menu.get('root', []), current_path)
+        item = menu.get('by_url', {}).get(current_path)
         if item:
             breadcrumbs.append({
                 'name': item.get('name', part),
@@ -65,19 +73,6 @@ def build_breadcrumb(url):
             })
 
     return breadcrumbs
-
-
-def find_menu_item(items, url):
-    """Recursively find menu item by URL."""
-    for item in items:
-        if item.get('url') == url:
-            return item
-        children = item.get('children', [])
-        if children:
-            found = find_menu_item(children, url)
-            if found:
-                return found
-    return None
 
 
 @app.context_processor
@@ -125,37 +120,32 @@ def map_view():
 
 @app.route('/<path:page_url>')
 def page(page_url):
-    """Dynamic page rendering."""
-    content = get_page(page_url)
+    """Dynamic page rendering from markdown content."""
+    content = get_page_content(page_url)
     menu = get_menu()
-    menu_item = find_menu_item(menu.get('root', []), page_url)
 
     if not content:
-        # Try to find as a section/category page from menu
+        # Check if URL exists in menu (directory without markdown)
+        menu_item = menu.get('by_url', {}).get(page_url)
         if menu_item:
-            children = menu_item.get('children', [])
-            page_type = 'tile-section' if children else menu_item.get('type', 'section')
             content = {
                 'id': menu_item.get('id'),
                 'title': menu_item.get('name'),
                 'url': page_url,
-                'type': page_type,
-                'children': children
+                'type': 'tile-section' if menu_item.get('children') else None,
+                'children': menu_item.get('children', []),
+                'content': ''
             }
         else:
             return render_template('404.html'), 404
-    else:
-        # Page content exists - merge children from menu if available
-        if menu_item:
-            children = menu_item.get('children', [])
-            if children:
-                content['children'] = children
-                # If page has children, it's a category page with content
-                if not content.get('type'):
-                    content['type'] = 'tile-section'
 
     breadcrumbs = build_breadcrumb(page_url)
     page_type = content.get('type', 'text-page')
+
+    # Load gallery if page has one
+    gallery = None
+    if content.get('gallery'):
+        gallery = get_gallery(page_url)
 
     # For HTMX requests, return appropriate partial with OOB breadcrumb
     if request.headers.get('HX-Request'):
@@ -163,21 +153,13 @@ def page(page_url):
             return render_htmx('partials/tile-section.html',
                              breadcrumbs=breadcrumbs, content=content)
         elif page_type == 'gallery':
-            gallery = get_gallery(content.get('gallery_id'))
             return render_htmx('partials/gallery-page.html',
                              breadcrumbs=breadcrumbs, content=content, gallery=gallery)
         else:
-            gallery = None
-            if content.get('gallery_id'):
-                gallery = get_gallery(content.get('gallery_id'))
             return render_htmx('partials/page-content.html',
                              breadcrumbs=breadcrumbs, content=content, gallery=gallery)
 
     # Full page render
-    gallery = None
-    if content.get('gallery_id'):
-        gallery = get_gallery(content.get('gallery_id'))
-
     return render_template('page.html',
                          content=content, gallery=gallery,
                          breadcrumbs=breadcrumbs)
@@ -206,8 +188,6 @@ def partial_tiles():
 
     if parent_url:
         parent_item = menu.get('by_url', {}).get(parent_url)
-        if not parent_item:
-            parent_item = find_menu_item(menu.get('root', []), parent_url)
     else:
         parent_item = None
 
@@ -235,7 +215,7 @@ def partial_tiles():
 @app.route('/partials/gallery')
 def partial_gallery():
     """Return gallery viewer partial."""
-    gallery_id = request.args.get('id')
+    gallery_id = request.args.get('id')  # Now a URL path
     current_idx = request.args.get('index', 0, type=int)
 
     gallery = get_gallery(gallery_id)
@@ -262,7 +242,7 @@ def partial_menu_sidebar():
     """Return sidebar menu partial."""
     current_url = request.args.get('url', '')
     menu = get_menu()
-    current_item = find_menu_item(menu.get('root', []), current_url)
+    current_item = menu.get('by_url', {}).get(current_url)
 
     return render_template('partials/menu-sidebar.html',
                          menu=menu,
@@ -271,44 +251,34 @@ def partial_menu_sidebar():
 
 
 # =============================================================================
-# Static File Routes
+# Content Image Routes (new filesystem structure)
 # =============================================================================
 
-STATIC_IMAGES_DIR = Path(__file__).parent.parent / 'static' / 'images'
-
-@app.route('/data/images/<path:filename>')
-def serve_image(filename):
-    """Serve images from data directory."""
-    images_dir = app.config['CONTENT_DIR'] / 'images'
-    return send_from_directory(images_dir, filename)
-
-
-@app.route('/images/menu/<filename>')
-def serve_menu_image(filename):
-    """Serve menu header images from static folder."""
-    return send_from_directory(STATIC_IMAGES_DIR / 'menu', filename)
+@app.route('/content/<path:url>/header.jpg')
+def serve_header_image(url):
+    """Serve header image from content directory."""
+    img_path = get_content_image_path(url, 'header')
+    if img_path:
+        return send_from_directory(img_path.parent, img_path.name)
+    abort(404)
 
 
-@app.route('/images/tiles/<filename>')
-def serve_tile_image(filename):
-    """Serve tile images - use menu images for better quality."""
-    # Try menu images first (919x409), fall back to tiles (141x141)
-    menu_path = STATIC_IMAGES_DIR / 'menu' / filename
-    if menu_path.exists():
-        return send_from_directory(STATIC_IMAGES_DIR / 'menu', filename)
-    return send_from_directory(STATIC_IMAGES_DIR / 'tiles', filename)
+@app.route('/content/<path:url>/tile.jpg')
+def serve_tile_image(url):
+    """Serve tile image from content directory."""
+    img_path = get_content_image_path(url, 'tile')
+    if img_path:
+        return send_from_directory(img_path.parent, img_path.name)
+    abort(404)
 
 
-@app.route('/images/gallery/<filename>')
-def serve_gallery_image(filename):
-    """Serve gallery images from static folder."""
-    return send_from_directory(STATIC_IMAGES_DIR / 'gallery', filename)
-
-
-@app.route('/images/thumbs/<filename>')
-def serve_thumb_image(filename):
-    """Serve thumbnail images from static folder."""
-    return send_from_directory(STATIC_IMAGES_DIR / 'thumbs', filename)
+@app.route('/content/<path:url>/gallery/<filename>')
+def serve_gallery_image(url, filename):
+    """Serve gallery images from content directory."""
+    img_path = get_gallery_image_path(url, filename)
+    if img_path:
+        return send_from_directory(img_path.parent, img_path.name)
+    abort(404)
 
 
 # =============================================================================

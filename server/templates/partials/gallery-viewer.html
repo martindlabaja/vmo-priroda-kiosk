@@ -5,19 +5,20 @@
 {% set current_img = images[idx] if images else none %}
 {% set has_prev_img = idx > 0 %}
 {% set has_next_img = idx < total - 1 %}
+{% set safe_id = gallery.id|replace('/', '-') %}
 
 {% if gallery %}
 <div class="gallery-viewer"
-     id="gallery-{{ gallery.id }}"
+     id="gallery-{{ safe_id }}"
      data-gallery-id="{{ gallery.id }}"
      data-total="{{ total }}">
 
     <!-- Main Image Display -->
     <div class="gallery-main">
         {% if current_img %}
-        <img src="/images/gallery/{{ current_img.path }}"
+        <img src="/content/{{ current_img.path }}"
              alt="{{ current_img.caption|default(gallery.name|default('')) }}"
-             id="gallery-image-{{ gallery.id }}">
+             id="gallery-image-{{ safe_id }}">
         {% else %}
         <div class="gallery-empty">
             Žádné obrázky v galerii
@@ -43,11 +44,11 @@
         <!-- Previous Button -->
         <button type="button"
                 class="gallery-nav gallery-prev"
-                hx-get="/partials/gallery?id={{ gallery.id }}&index={{ idx - 1 }}"
-                hx-target="#gallery-{{ gallery.id }}"
+                hx-get="/partials/gallery?id={{ gallery.id|urlencode }}&index={{ idx - 1 }}"
+                hx-target="#gallery-{{ safe_id }}"
                 hx-swap="outerHTML"
                 {% if not has_prev_img %}disabled{% endif %}>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
                 <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
             </svg>
         </button>
@@ -60,11 +61,11 @@
         <!-- Next Button -->
         <button type="button"
                 class="gallery-nav gallery-next"
-                hx-get="/partials/gallery?id={{ gallery.id }}&index={{ idx + 1 }}"
-                hx-target="#gallery-{{ gallery.id }}"
+                hx-get="/partials/gallery?id={{ gallery.id|urlencode }}&index={{ idx + 1 }}"
+                hx-target="#gallery-{{ safe_id }}"
                 hx-swap="outerHTML"
                 {% if not has_next_img %}disabled{% endif %}>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
                 <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
             </svg>
         </button>
