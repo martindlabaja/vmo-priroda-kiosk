@@ -6,13 +6,6 @@
 
     <!-- Main Content Area -->
     <div class="tile-section-main">
-        <!-- Optional: Section Image -->
-        <div class="section-header-image">
-            <img src="/content/{{ content.url }}/tile.jpg"
-                 alt="{{ content.title }}"
-                 onerror="this.parentElement.style.display='none'">
-        </div>
-
         <!-- Tiles Container - shows direct children -->
         <div id="tile-container"
              hx-get="/partials/tiles?parent={{ content.url }}"
