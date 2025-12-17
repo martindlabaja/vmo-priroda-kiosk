@@ -256,8 +256,9 @@ def partial_menu_sidebar():
 
 @app.route('/content/<path:url>/header.jpg')
 def serve_header_image(url):
-    """Serve header image from content directory."""
-    img_path = get_content_image_path(url, 'header')
+    """Serve header image - redirects to tile.jpg (consolidated)."""
+    # Header images consolidated into tile.jpg
+    img_path = get_content_image_path(url, 'tile')
     if img_path:
         return send_from_directory(img_path.parent, img_path.name)
     abort(404)
