@@ -64,17 +64,6 @@ def _get_dir_title(dir_path: Path) -> str:
     return dir_path.name.replace('-', ' ').title()
 
 
-def _get_dir_menu_id(dir_path: Path) -> Any:
-    """Get menu_id from directory's markdown file or derive from path."""
-    for filename in ['_index.md', 'page.md']:
-        md_file = dir_path / filename
-        if md_file.exists():
-            meta = _load_frontmatter(md_file)
-            if meta.get('menu_id'):
-                return meta['menu_id']
-    return None
-
-
 # =============================================================================
 # Menu Loading
 # =============================================================================
@@ -91,10 +80,9 @@ def load_menu_yaml() -> Dict[str, Any]:
 def _build_menu_item(dir_path: Path, url_path: str) -> Dict[str, Any]:
     """Recursively build menu item from directory."""
     title = _get_dir_title(dir_path)
-    menu_id = _get_dir_menu_id(dir_path)
 
     item = {
-        'id': menu_id or url_path.replace('/', '-'),
+        'id': url_path.replace('/', '-'),
         'name': title,
         'url': url_path,
         'children': []
@@ -143,7 +131,6 @@ def build_menu_tree() -> Dict[str, Any]:
         if section_dir.is_dir():
             item = _build_menu_item(section_dir, section_id)
             # Override with menu.yaml values
-            item['id'] = section.get('menu_id', item['id'])
             item['name'] = section.get('title', item['name'])
             root_items.append(item)
             _index_menu_item(item, by_url)
@@ -164,7 +151,7 @@ def get_page_content(url: str) -> Optional[Dict[str, Any]]:
 
     Returns:
         {
-            'id': menu_id or url-slug,
+            'id': 'url-slug',
             'title': 'Page Title',
             'content': '<p>HTML content...</p>',
             'url': 'geologie/kras-olomouckeho-kraje',
@@ -197,7 +184,7 @@ def get_page_content(url: str) -> Optional[Dict[str, Any]]:
         html_content = data['content']
 
         content = {
-            'id': meta.get('menu_id', url.replace('/', '-')),
+            'id': url.replace('/', '-'),
             'title': meta.get('title', content_path.name.replace('-', ' ').title()),
             'content': html_content,
             'url': url,
@@ -221,9 +208,8 @@ def get_page_content(url: str) -> Optional[Dict[str, Any]]:
         if child_dir.is_dir() and child_dir.name != 'gallery':
             child_url = f"{url}/{child_dir.name}"
             child_title = _get_dir_title(child_dir)
-            child_menu_id = _get_dir_menu_id(child_dir)
             children.append({
-                'id': child_menu_id or child_dir.name,
+                'id': child_dir.name,
                 'name': child_title,
                 'url': child_url
             })
