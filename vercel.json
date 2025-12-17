@@ -1,20 +1,15 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "api/index.py",
-      "use": "@vercel/python"
+  "functions": {
+    "api/index.py": {
+      "runtime": "@vercel/python@3.0.7",
+      "excludeFiles": "{venv,scripts,config,extracted-data,.git,*.md}/**"
     }
-  ],
+  },
   "routes": [
     {
       "src": "/(.*)",
       "dest": "api/index.py"
     }
-  ],
-  "functions": {
-    "api/**": {
-      "excludeFiles": "{venv,scripts,config,extracted-data,.git,*.md}/**"
-    }
-  }
+  ]
 }
