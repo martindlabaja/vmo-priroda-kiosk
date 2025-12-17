@@ -1,0 +1,4 @@
+---
+---
+
+Fosiliferní devonský křemenec

@@ -1,0 +1,9 @@
+---
+title: Sinice
+gallery: true
+---
+
+(*Cyanophyta*)
+
+Sinice – fotosyntetizující bakterie – jsou drobné organismy mající pravděpodobně na svědomí okysličení celé zemské atmosféry. Vyznačují se jednobuněčnou či vláknitou stélkou a velmi jednoduchou (prokaryotickou) stavbou buněk. Obývají nejrůznější extrémní stanoviště. Některé druhy žijí v termálních pramenech s teplotou kolem 70°C, jiné v Arktických podmínkách. Mohou žít v kyselém i silně zásaditém prostředí a nejsou náročné na světlo, proto se s nimi setkáme v jeskyních a katakombách. Žijí na kůře stromů, zdech, na srsti lenochodů a ledních medvědů. O velké přizpůsobivosti na širokou škálu podmínek svědčí i to, že tu jsou v prakticky nezměněné podobě již od Prekambria. V rybnících vegetují buďto ve volné vodě (plankton) nebo přichycené na dně a ponořených předmětech (bentos) nejčastěji v litorálu (prosvětlená část dna).  
+Sinice jsou mediálně nejznámější obyvatelé planktonu. Za svoji proslulost vděčí toxinům a alergenům, nebezpečným i pro člověka. Sinice jsou přizpůsobeny životu v planktonu vytvářením plynných váčků, které je nadnáší (tmavé tečky v buňkách). V letním období, při teplotě vody nad 20°C se ve vodách s dostatkem živin obvykle přemnoží a vytvoří tzv. vodní květ. Rekreační nádrže (přehrady a přírodní koupaliště) jsou v sezóně pravidelně kontrolovány na výskyt sinic a zákaz koupání není rozumné porušovat. Účinky toxinu nemusí být na první pohled laicky pozorovatelné, ale projeví se např. na jaterních testech (hepatotoxiny), nebo mohou  při dlouhodobém vystavení toxinům poškodit plod u těhotných žen (embryotoxiny). V každém případě se po koupání v rybnících či přehradách doporučuje neutírat, ale co nejdříve se osprchovat v čisté vodě. Rybník se sinicemi není vhodný ani pro koupání psů, zaschlé sinice přinesou domů na srsti a můžeme je vdechnout s prachem.

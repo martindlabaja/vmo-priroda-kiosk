@@ -1,0 +1,6 @@
+---
+title: Zálesí
+gallery: true
+---
+
+V lokalitě Zálesí se nachází asi 130 druhů minerálů. Těžba uranu probíhala v letech 1958-68, cca 1,2 km v. od obce štolami, na povrchu byly rudy ověřeny šachticemi, haldy byly rozvoženy. Zrudnění je na styku sněžnické a stróňské skupiny v amfibolitech a rulách, žíly jsou mocné i několik metrů. Uran obsahovala i metasomatická tělesa. Těžen byl uraninit a coffinit, rudy obsahovaly i chalkopyrit (krystaly 2 cm), arzenidy Co-Ni (skutterudit - krystaly 3 cm, rammelsbergit - pérový 10 cm, safflorit-paprsčitý 6 cm) a vzácné selenidy (zrna: naumannit, watkinsonit a shluky - clausthalit), ryzí Ag (agregáty 20 cm). Ze Zálesí pochází dva nové minerály: **zálesíit** (zelené jehličky) a **litochlebit** (kovová zrnka). Seleničitany (sekundární nerosty) jsou velmi vzácné v celosvětovém měřítku: chalkomenit – modré sloupečky, molybdomenit – bílé tabulky, schmiederit – zelenomodré jehličky). Další sekundární minerály: sloučeniny uranu (uranofán, torbernit, zeunerit, parsonsit), arzenu (erytrín, annabergit, tirolit, strašimirit, guerinit), vanadu (ťujamunit, vanadinit, chervetit). Vynikající vzorky tvořil chryzokol.

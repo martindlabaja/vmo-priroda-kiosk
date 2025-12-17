@@ -1,0 +1,6 @@
+---
+title: Zbrašovské aragonitové  jeskyně
+gallery: true
+---
+
+Zbrašovské aragonitové jeskyně **–** se nalézají v levém svahu údolí Bečvy, provozní budova se vstupem do jeskynní je přímo v areálu lázní Teplice n. B. Jeskynní systém byl vytvořen velmi složitým a kombinovaným krasovým a hydrotermálním procesem, který sebou přinesl celou řadu zcela výjimečných jevů, které se v žádné jiné jeskyni v ČR nevyskytují. Specifické hydrotermální sintrové útvary, mezi kterými vynikají kuželové, tzv. „gejzírové“ stalagmity (v celkovém počtu 85 ks), páskované sintry koblihy na stěnách některých částí jeskyní a především pak ve spodních částech jeskynních prostor s kolísající hladinou plynových jezer oxidu uhličitého. K nejkrásnějším útvarům výzdoby patří, na větších plochách vytvořené, drúzy aragonitu o velikosti až 9 cm s přítomností směsi minerálů magnezitu a huntitu a stalaktity zdobené nárůstky na stropu v Tunelu Jurikova dómu. Celková délka jeskynní je 1240 m, návštěvní trasa jeskyněmi je po nejnovějších úpravách a propojení umělou štolou 375 m.

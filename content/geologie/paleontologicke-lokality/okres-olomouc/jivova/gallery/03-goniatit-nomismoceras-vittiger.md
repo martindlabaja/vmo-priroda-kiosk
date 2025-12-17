@@ -1,0 +1,4 @@
+---
+---
+
+Goniatit Nomismoceras vittiger

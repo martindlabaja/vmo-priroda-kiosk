@@ -1,0 +1,6 @@
+---
+title: Javoříčské jeskyně
+gallery: true
+---
+
+Javoříčské jeskyně leží asi 15 km zjz. od Litovle, nedaleko Javoříčka. Vytvořeny byly v ekvivalentu vápenců moravského krasu – v tzv. vilémovických vápencích (střední část konicko-mladečského devonu). Vznikly v kopci Špraněk (539 m), který je největší vápencovou krou území. Rozsáhlý a členitý třípatrový systém tunelovitých chodeb a dómů, s propastmi a komíny, vznikl erozně korozním procesem. Javoříčské jeskyně jsou typem výrazně modelované říční jeskyně, kterou vodní tok již dávno opustil. Mohutné dómy (Gigantů, Suťový, Olomoucký a další) vznikly později řícením stropů a propojením jednotlivých jeskynních pater. Jeskyně má mimořádně bohatou pestrou krápníkovou výzdobu. Část horního patra je v délce 790 m upravena a zpřístupněna veřejnosti, celková délka dosud známých prostor přesahuje 4 km. Jeskynní soustavu Javoříčských jeskyní tvoří vzájemně propojené jeskyně Javoříčské (objevené v roce 1938), Jeskyně Míru (objeveny v roce 1958) a od nepaměti známý úsek jeskyně zvaný Svěcená díra.

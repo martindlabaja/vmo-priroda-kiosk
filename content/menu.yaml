@@ -1,0 +1,11 @@
+sections:
+- id: geologie
+  title: Geologie
+- id: ziva-priroda
+  title: Živá příroda
+- id: chranena-uzemi
+  title: Chráněná území
+- id: pouzita-literatura
+  title: Použitá literatura
+- id: o-expozici-muzea
+  title: O expozici muzea

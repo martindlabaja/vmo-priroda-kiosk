@@ -1,0 +1,4 @@
+---
+---
+
+Chrpa modrá – bělokvětý exemplář

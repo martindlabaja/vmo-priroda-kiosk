@@ -1,0 +1,4 @@
+---
+---
+
+Zlatobýl kanadský – detail plodů

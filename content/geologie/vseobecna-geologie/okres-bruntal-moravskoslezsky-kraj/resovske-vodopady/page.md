@@ -1,0 +1,6 @@
+---
+title: Rešovské vodopády
+gallery: true
+---
+
+Rešovské vodopády vznikly na říčce Huntavě asi 1 km zsz. od obce Rešov v Bruntálské vrchovině. Vodopád tvořený 4 stupni o celkové výšce 8,6 m protéká úzkou soutěskou. Na geologické stavbě údolí říčky Huntavy se podílejí tři typy hornin. Kaňonovitá soutěska nad vodopádem je vytvořena napříč polohou slabě metamorfovaných světlých efuzivních hornin – porfyroidů (kyselé vulkanity). Hladká skalní stěna hlavní kaskády vodopádu je obnaženou plochou břidličnatosti tohoto porfyroidu. Úsek pod vodopádem je tvořen slabě metamorfovanými bazickými efuzivy – diabasy (tmavě zelené). Porfyroidy a diabasy jsou horninami vrbenské skupiny devonského stáří. S diabasy souvisí ložiska Fe-rud, těžených v širším okolí vodopádů. Asi 250 m pod vodopádem je geologické rozhraní mezi metamorfovanými diabasy a flyšovými sedimenty andělskohorského souvrství, pokračujícími k J. Andělskohorské souvrství je tvořené velmi slabě metamorfovanými drobami a břidlicemi svrchnodevonského až spodnokarbonského stáří.

@@ -1,0 +1,6 @@
+---
+title: Jeskyně Na Pomezí
+gallery: true
+---
+
+Jeskyně Na Pomezí se nacházejí 7 km SZ od města Jeseník, pod horským sedlem Na Pomezí u silnice vedoucí z Lipové Lázní do Javorníku.  Vchod do jeskyní je na strmém úpatí skalní stěny, částečně zakryté svahovou sutí. Jeskyně jsou vytvořeny ve spodním pruhu krystalických vápenců (mramorů) skupiny Branné a svým stářím jsou řazeny k devonským jednotkám. Jeskyně na Pomezí je největší krasová jeskyně vytvořená v krystalických vápencích na území ČR. Je dvoupatrovým systémem bohatě rozvětvených, převážně užších puklinových chodeb, menších dómů a vysokých komínů. Členitě modelovaná jeskyně má bohatou a specifickou sintrovou výzdobu, reprezentovanou především mohutnými kaskádovitými náteky na stěnách a velkými srdcovitými stalaktity. Na vývoji a charakteru jeskyně se rovněž podílí značné rozpukání skalního masivu v důsledku působení kongelifrakce v periglaciálním klimatu. Jeskyně je rovněž významným zimovištěm netopýrů.  Z celkové délky jeskynní soustavy 1400 m, je pro veřejnost zpřístupněna trasa o délce 450 m.

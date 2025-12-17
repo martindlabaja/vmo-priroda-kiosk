@@ -1,0 +1,7 @@
+---
+title: Významné geologické lokality v Olomouckém kraji
+---
+
+Velmi složitá stavba a geologický vývoj Olomouckého kraje nabízí velké množství pozoruhodných a velmi instruktivních geologických lokalit. Z hlediska regionálně-geologické stavby ČR přísluší území Olomouckého kraje ke dvěma geologickým soustavám. K Českému masivu náleží moravskoslezská oblast, východní část Lugika a mladé úvaly vyplněné třetihorními a čtvrtohorními sedimenty. Z Karpatské soustavy zasahují do východní části území Olomouckého kraje pouze některé jednotky – flyšové pásmo západních Karpat a karpatská předhlubeň. Vybrané lokality této kapitoly upozorňují na významné jevy regionální a strukturně-tektonické geologie, metamorfizmu, vulkanismu, ale také na vzájemné souvislosti geologické stavby a výsledné morfologie daného území.
+
+Z velkého množství lokalit stojí za pozornost: areál Velkého Kosíře, grygovské vápence, skalní útvary na Rabštejně, Rešovské vodopády, přirozené i umělé skalní výchozy Bělkovického údolí až k Těšíkovské kyselce, Petrovy kameny, Velká kotlina, Sněžná kotlina, skály tvořící tzv. mrazové sruby (Obří skály, Kamzík, Žárový vrch atp.), Vozka, Keprník, Borový vrch u Žulové, Smolný u Vidnavy, Nýznerovské vodopády a řada jiných.

@@ -1,0 +1,6 @@
+---
+title: Kras v okolí Sovince
+gallery: true
+---
+
+Sovinecký kras je vázán na ostrůvky devonských vápenců sovineckého antiklinoria, které vystupují z podloží v komplexech andělskohorských vrstev v Bruntálské vrchoviny Nízkého Jeseníku. Pás vápenců zde probíhá od Sovince na JZ k obci Paseka.  Jedná se šedé, slabě metamorfované vápence obsahující především ve svrchních polohách podstatnou příměs zrn až valounků křemene. Sovinecký kras zde svým vývojem vykazuje kombinaci jevů krasových a pseudokrasových. Povrchové jevy chybí, základním podzemním krasovým jevem jsou rourovité propasťovité jeskyně s nedostatkem horizontálních jeskynních úrovní. V současnosti známé jeskyně v tomto území se nalézají  asi 500 m jz. od obce Slovinec, na z. svahu Vápenného vrchu (27 m n.m., na 2 etáži bývalého lomu. Největšími jeskyněmi zde jsou Sovinecká jeskyně, dlouhá 96 m a hluboká 16 m, propasťovitá Jeskyně Netopýrka  hluboká 74 m a Jeskyně u Sovince dlouhá 10 m a hluboká 10 m. Významným geomorfologickým rysem území jsou hluboce zaříznutá okolní údolí, kdy se dá předpokládat hloubka zdejších propastí až k hladině údolního toku, tj. 180 m, což by řadilo tyto propasti k nejhlubším v České republice.

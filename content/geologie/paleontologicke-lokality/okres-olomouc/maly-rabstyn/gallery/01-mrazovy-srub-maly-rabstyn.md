@@ -1,0 +1,4 @@
+---
+---
+
+Mrazový srub Malý Rabštýn
