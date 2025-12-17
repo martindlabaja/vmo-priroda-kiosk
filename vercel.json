@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/index.py": {
-      "runtime": "@vercel/python@3.0.7",
+      "runtime": "@vercel/python",
       "excludeFiles": "{venv,scripts,config,extracted-data,.git,*.md}/**"
     }
   },
